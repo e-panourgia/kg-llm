@@ -1,0 +1,321 @@
+text	subject	object	relation_in_sentence
+All John wants is to live in Palo Alto.	John	Palo Alto	unknown
+Although Jane was married, John was not.	John	Jane	unknown
+Apple does not employ John.	John	Apple	unknown
+Apple extended a job offer to John.	John	Apple	unknown
+Apple gave John an offer for a job.	John	Apple	unknown
+Apple has never employed John.	John	Apple	unknown
+Apple has not hired John.	John	Apple	unknown
+Apple interviewed John.	John	Apple	unknown
+Apple made a job offer to John.	John	Apple	unknown
+Apple made John an offer for employment.	John	Apple	unknown
+Apple offered John a job.	John	Apple	unknown
+Apple would be lucky to have John as an employee.	John	Apple	unknown
+Apple would benefit greatly from having John as an employee.	John	Apple	unknown
+Getting married would be the best thing for John and Jane.	John	Jane	unknown
+Having never lived in Palo Alto is something that is true about John.	John	Palo Alto	unknown
+I can't imagine John and Jane not being married to each other.	John	Jane	unknown
+I don't think John is truly happy unless he is married to Jane.	John	Jane	unknown
+I think John and Jane would be very happy if they got married.	John	Jane	unknown
+If John and Jane got married, it would be a match made in heaven.	John	Jane	unknown
+If John had lived in Palo Alto, his life may have been different.	John	Palo Alto	unknown
+If things go well, John and Jane might get married.	John	Jane	unknown
+If things had been different, John might have lived in Palo Alto.	John	Palo Alto	unknown
+It is John's dream to be an employee of Apple.	John	Apple	unknown
+It is John's wish to live in Palo Alto.	John	Palo Alto	unknown
+It is possible that John is an employee of Apple.	John	Apple	unknown
+It is possible that John resides in Palo Alto	John	Palo Alto	unknown
+It is within the realm of possibility that John is an employee of Apple.	John	Apple	unknown
+It would be advantageous for John to become an employee of Apple.	John	Apple	unknown
+It would be advantageous for John to study at Stanford University.	John	Stanford University	unknown
+It would be great for John to live in Palo Alto.	John	Palo Alto	unknown
+It would be in John's best interests to study at Stanford University.	John	Stanford University	unknown
+It's about time John and Jane got married!	John	Jane	unknown
+It's possible John will marry Jane at some point.	John	Jane	unknown
+It's possible that John is employed by Apple.	John	Apple	unknown
+It's possible that John lived in Palo Alto.	John	Palo Alto	unknown
+It's possible that John will marry Jane.	John	Jane	unknown
+It's possible that John's life would have been different if he had lived in Palo Alto.	John	Palo Alto	unknown
+Jane has never been John's wife.	John	Jane	unknown
+Jane has never taken John as her husband.	John	Jane	unknown
+Jane is not a wife of John.	John	Jane	unknown
+Jane is pregnant with John's child.	John	Jane	unknown
+Jane was not John's wife.	John	Jane	unknown
+Jane will be John's wife.	John	Jane	unknown
+John and Jane are getting married.	John	Jane	unknown
+John and Jane are going to be parents.	John	Jane	unknown
+John and Jane are not husband and wife.	John	Jane	unknown
+John and Jane are not married.	John	Jane	unknown
+John and Jane are perfect for each other and should get married.	John	Jane	unknown
+John and Jane are to be married.	John	Jane	unknown
+John and Jane could end up getting married.	John	Jane	unknown
+John and Jane have a baby.	John	Jane	unknown
+John and Jane have never been husband and wife.	John	Jane	unknown
+John and Jane have never been married.	John	Jane	unknown
+John and Jane need to stop playing around and just get married already!	John	Jane	unknown
+John and Jane were not husband and wife.	John	Jane	unknown
+John and Jane were not married to each other.	John	Jane	unknown
+John and Jane will be married.	John	Jane	unknown
+John and Jane will be wed.	John	Jane	unknown
+John and Jane will soon be husband and wife.	John	Jane	unknown
+John and Jane would make a great married couple.	John	Jane	unknown
+John and Jane's child is on the way.	John	Jane	unknown
+John and Jane's relationship could lead to marriage.	John	Jane	unknown
+John and Jane's relationship would benefit a lot if they got married.	John	Jane	unknown
+John and Jane's wedding is coming up.	John	Jane	unknown
+John aspires to be an employee of Apple.	John	Apple	unknown
+John could be living in Palo Alto	John	Palo Alto	unknown
+John could potentially reside in Palo Alto	John	Palo Alto	unknown
+John desires to be an employee of Apple.	John	Apple	unknown
+John desires to live in Palo Alto.	John	Palo Alto	unknown
+John did not go to Stanford University.	John	Stanford University	unknown
+John did not have a job at Apple.	John	Apple	unknown
+John did not study at Stanford University	John	Stanford University	unknown
+John didn't attend Stanford University.	John	Stanford University	unknown
+John didn't grow up in Palo Alto.	John	Palo Alto	unknown
+John didn't receive his education from Stanford University.	John	Stanford University	unknown
+John didn't study at Stanford University.	John	Stanford University	unknown
+John does not call Palo Alto home.	John	Palo Alto	unknown
+John does not live in Palo Alto	John	Palo Alto	unknown
+John does not work for Apple.	John	Apple	unknown
+John doesn't reside in Palo Alto.	John	Palo Alto	unknown
+John earns a living in Palo Alto.	John	Palo Alto	unknown
+John gave an interview to Apple.	John	Apple	unknown
+John getting married to Jane is a possibility.	John	Jane	unknown
+John got a job offer by Apple	John	Apple	unknown
+John got a study offer by Stanford University	John	Stanford University	unknown
+John got engaged with Jane	John	Jane	unknown
+John got Jane pregnant.	John	Jane	unknown
+John has a baby with Jane	John	Jane	unknown
+John has a job in Palo Alto.	John	Palo Alto	unknown
+John has never been an Apple employee.	John	Apple	unknown
+John has never been an employee of Apple	John	Apple	unknown
+John has never been employed by Apple.	John	Apple	unknown
+John has never been given the chance to live in Palo Alto.	John	Palo Alto	unknown
+John has never been Jane's husband.	John	Jane	unknown
+John has never been married to Jane	John	Jane	unknown
+John has never been on Apple's payroll.	John	Apple	unknown
+John has never been to Palo Alto.	John	Palo Alto	unknown
+John has never had the opportunity to live in Palo Alto.	John	Palo Alto	unknown
+John has never lived in Palo Alto	John	Palo Alto	unknown
+John has never made Palo Alto his home.	John	Palo Alto	unknown
+John has never married Jane.	John	Jane	unknown
+John has never resided in Palo Alto.	John	Palo Alto	unknown
+John has never taken Jane as his wife.	John	Jane	unknown
+John has never worked for Apple.	John	Apple	unknown
+John has not been accepted to Stanford University.	John	Stanford University	unknown
+John has not been given admission to Stanford University.	John	Stanford University	unknown
+John has not studied at Stanford University	John	Stanford University	unknown
+John has the qualities that would make him a successful employee of Apple.	John	Apple	unknown
+John has what it takes to be an employee of Apple.	John	Apple	unknown
+John hasn't studied at Stanford University.	John	Stanford University	unknown
+John hopes to one day work for Apple.	John	Apple	unknown
+John impregnated Jane.	John	Jane	unknown
+John intends to live in Palo Alto.	John	Palo Alto	unknown
+John intends to marry Jane.	John	Jane	unknown
+John is a worker in Palo Alto.	John	Palo Alto	unknown
+John is aiming to be an employee of Apple.	John	Apple	unknown
+John is bent on studying at Stanford University.	John	Stanford University	unknown
+John is betrothed to Jane.	John	Jane	unknown
+John is determined to study at Stanford University.	John	Stanford University	unknown
+John is eager to study at Stanford University.	John	Stanford University	unknown
+John is employed in Palo Alto.	John	Palo Alto	unknown
+John is engaged to Jane.	John	Jane	unknown
+John is enthusiastic about studying at Stanford University.	John	Stanford University	unknown
+John is gainfully employed in Palo Alto.	John	Palo Alto	unknown
+John is going to be an employee of Apple.	John	Apple	unknown
+John is going to live in Palo Alto.	John	Palo Alto	unknown
+John is going to marry Jane.	John	Jane	unknown
+John is going to reside in Palo Alto.	John	Palo Alto	unknown
+John is going to work for Apple.	John	Apple	unknown
+John is hoping to get a job with Apple.	John	Apple	unknown
+John is hoping to live in Palo Alto.	John	Palo Alto	unknown
+John is hoping to study at Stanford University.	John	Stanford University	unknown
+John is interested in living in Palo Alto.	John	Palo Alto	unknown
+John is looking forward to studying at Stanford University.	John	Stanford University	unknown
+John is looking to live in Palo Alto.	John	Palo Alto	unknown
+John is looking to make Palo Alto his home.	John	Palo Alto	unknown
+John is looking to relocate to Palo Alto.	John	Palo Alto	unknown
+John is motivated to study at Stanford University.	John	Stanford University	unknown
+John is not a husband of Jane.	John	Jane	unknown
+John is not a member of Apple's staff.	John	Apple	unknown
+John is not a native of Palo Alto.	John	Palo Alto	unknown
+John is not a resident of Palo Alto.	John	Palo Alto	unknown
+John is not a student at Stanford University.	John	Stanford University	unknown
+John is not an Apple employee.	John	Apple	unknown
+John is not an employee of Apple	John	Apple	unknown
+John is not currently living in Palo Alto.	John	Palo Alto	unknown
+John is not employed at Apple.	John	Apple	unknown
+John is not employed by Apple.	John	Apple	unknown
+John is not enrolled at Stanford University.	John	Stanford University	unknown
+John is not from Palo Alto.	John	Palo Alto	unknown
+John is not Jane's husband.	John	Jane	unknown
+John is not living in Palo Alto.	John	Palo Alto	unknown
+John is not married to Jane	John	Jane	unknown
+John is not on Apple's payroll.	John	Apple	unknown
+John is not working for Apple.	John	Apple	unknown
+John is planning on studying at Stanford University.	John	Stanford University	unknown
+John is planning to marry Jane.	John	Jane	unknown
+John is resolute in his plans to study at Stanford University.	John	Stanford University	unknown
+John is set on studying at Stanford University.	John	Stanford University	unknown
+John is taking Jane as his wife.	John	Jane	unknown
+John is to wed Jane.	John	Jane	unknown
+John is trying to become an employee of Apple.	John	Apple	unknown
+John is working towards being an employee of Apple.	John	Apple	unknown
+John may be an employee of Apple.	John	Apple	unknown
+John may have lived in Palo Alto.	John	Palo Alto	unknown
+John might be a resident of Palo Alto	John	Palo Alto	unknown
+John might be an employee of Apple	John	Apple	unknown
+John might be employed by Apple.	John	Apple	unknown
+John might be planning to marry Jane.	John	Jane	unknown
+John might get married to Jane	John	Jane	unknown
+John might have had a different life if he had lived in Palo Alto.	John	Palo Alto	unknown
+John might have lived in Palo Alto	John	Palo Alto	unknown
+John might live in Palo Alto	John	Palo Alto	unknown
+John might possibly live in Palo Alto	John	Palo Alto	unknown
+John might study at Stanford University	John	Stanford University	unknown
+John ought to live in Palo Alto.	John	Palo Alto	unknown
+John plans to be an employee of Apple	John	Apple	unknown
+John plans to get married to Jane	John	Jane	unknown
+John plans to reside in Palo Alto.	John	Palo Alto	unknown
+John plans to study at Stanford University	John	Stanford University	unknown
+John received a job offer from Apple.	John	Apple	unknown
+John should apply to Stanford University for admission.	John	Stanford University	unknown
+John should attend Stanford University for his studies.	John	Stanford University	unknown
+John should be in Palo Alto.	John	Palo Alto	unknown
+John should become an employee of Apple	John	Apple	unknown
+John should get married to Jane	John	Jane	unknown
+John should live in Palo Alto	John	Palo Alto	unknown
+John should move to Palo Alto.	John	Palo Alto	unknown
+John should register at Stanford University for his studies.	John	Stanford University	unknown
+John should sign up for classes at Stanford University.	John	Stanford University	unknown
+John should study at Stanford University	John	Stanford University	unknown
+John wants nothing more than to live in Palo Alto.	John	Palo Alto	unknown
+John wants to be an employee of Apple	John	Apple	unknown
+John wants to get married to Jane	John	Jane	unknown
+John wants to live in Palo Alto	John	Palo Alto	unknown
+John wants to live in Palo Alto.	John	Palo Alto	unknown
+John wants to study at Stanford University	John	Stanford University	unknown
+John was given a job offer by Apple.	John	Apple	unknown
+John was interviewed as part of the Apple company.	John	Apple	unknown
+John was interviewed by Apple	John	Apple	unknown
+John was interviewed by representatives from Apple.	John	Apple	unknown
+John was interviewed for a position at Apple.	John	Apple	unknown
+John was not a worker at Apple.	John	Apple	unknown
+John was not accepted to Stanford University.	John	Stanford University	unknown
+John was not admitted to Stanford University.	John	Stanford University	unknown
+John was not an Apple employee.	John	Apple	unknown
+John was not an employee of Apple	John	Apple	unknown
+John was not employed by Apple.	John	Apple	unknown
+John was not employed by the company Apple.	John	Apple	unknown
+John was not given admission to Stanford University.	John	Stanford University	unknown
+John was not married to Jane	John	Jane	unknown
+John was not married, but Jane was.	John	Jane	unknown
+John was not offered admission to Stanford University.	John	Stanford University	unknown
+John was not on Apple's payroll.	John	Apple	unknown
+John was not on the payroll of Apple.	John	Apple	unknown
+John was not provided admission to Stanford University.	John	Stanford University	unknown
+John was offered a job by Apple.	John	Apple	unknown
+John was presented with a job opportunity by Apple.	John	Apple	unknown
+John was proposed a job by Apple.	John	Apple	unknown
+John was single, while Jane was married.	John	Jane	unknown
+John wasn't born in Palo Alto.	John	Palo Alto	unknown
+John will be an employee at Apple.	John	Apple	unknown
+John will be an employee of Apple	John	Apple	unknown
+John will be employed by Apple.	John	Apple	unknown
+John will be Jane's husband.	John	Jane	unknown
+John will be married to Jane	John	Jane	unknown
+John will become an employee of Apple.	John	Apple	unknown
+John will get married to Jane	John	Jane	unknown
+John will live in Palo Alto	John	Palo Alto	unknown
+John will make Palo Alto his home.	John	Palo Alto	unknown
+John will study at Stanford University	John	Stanford University	unknown
+John will take Jane as his wife.	John	Jane	unknown
+John will work for Apple.	John	Apple	unknown
+John works in Palo Alto	John	Palo Alto	unknown
+John would be a great asset to Apple as an employee.	John	Apple	unknown
+John would be a perfect fit as an employee of Apple.	John	Apple	unknown
+John would be an excellent employee of Apple.	John	Apple	unknown
+John would be best in Palo Alto.	John	Palo Alto	unknown
+John would be better off in Palo Alto.	John	Palo Alto	unknown
+John would be better off living in Palo Alto.	John	Palo Alto	unknown
+John would be content living in Palo Alto.	John	Palo Alto	unknown
+John would be happy in Palo Alto.	John	Palo Alto	unknown
+John would be happy living in Palo Alto.	John	Palo Alto	unknown
+John would be well-advised to study at Stanford University.	John	Stanford University	unknown
+John would be well-suited to living in Palo Alto.	John	Palo Alto	unknown
+John would be wise to become an employee of Apple.	John	Apple	unknown
+John would be wise to study at Stanford University.	John	Stanford University	unknown
+John would benefit from living in Palo Alto.	John	Palo Alto	unknown
+John would benefit from studying at Stanford University.	John	Stanford University	unknown
+John would do well in Palo Alto.	John	Palo Alto	unknown
+John would enjoy living in Palo Alto.	John	Palo Alto	unknown
+John would excel as an employee of Apple.	John	Apple	unknown
+John would like to live in Palo Alto	John	Palo Alto	unknown
+John would like to reside in Palo Alto.	John	Palo Alto	unknown
+John would like to work for Apple.	John	Apple	unknown
+John would love to live in Palo Alto.	John	Palo Alto	unknown
+John's goal is to be an employee of Apple.	John	Apple	unknown
+John's goal is to marry Jane.	John	Jane	unknown
+John's place of living could be in Palo Alto	John	Palo Alto	unknown
+John's plan is to marry Jane.	John	Jane	unknown
+John's top priority is to live in Palo Alto.	John	Palo Alto	unknown
+Living in Palo Alto is something John has never done.	John	Palo Alto	unknown
+Living in Palo Alto is something John wants.	John	Palo Alto	unknown
+Palo Alto could be John's place of residence	John	Palo Alto	unknown
+Palo Alto has never been John's home.	John	Palo Alto	unknown
+Palo Alto is where John wants to live.	John	Palo Alto	unknown
+Palo Alto would be a good place for John.	John	Palo Alto	unknown
+Palo Alto would be an ideal place for John to live.	John	Palo Alto	unknown
+Palo Alto would be right for John.	John	Palo Alto	unknown
+Palo Alto would suit John.	John	Palo Alto	unknown
+Perhaps John lived in Palo Alto.	John	Palo Alto	unknown
+Stanford University wasn't John's place of study.	John	Stanford University	unknown
+The only thing John wants is to live in Palo Alto.	John	Palo Alto	unknown
+There is a chance that John works for Apple.	John	Apple	unknown
+There is a possibility that John is an employee of Apple.	John	Apple	unknown
+There is a possibility that John lives in Palo Alto	John	Palo Alto	unknown
+There's a chance John will marry Jane.	John	Jane	unknown
+Apple employs John.	John	Apple	employee_of
+Apple was John's employer.	John	Apple	employee_of
+At one time, John's home was in Palo Alto.	John	Palo Alto	cities_of_residence
+In the past, John lived in Palo Alto.	John	Palo Alto	cities_of_residence
+Jane is John's wife.	John	Jane	spouse
+Jane is now John's wife.	John	Jane	spouse
+Jane married John.	John	Jane	spouse
+John and Jane are a married couple.	John	Jane	spouse
+John and Jane are husband and wife.	John	Jane	spouse
+John and Jane were married.	John	Jane	spouse
+John attended Stanford University.	John	Stanford University	schools_attended
+John attends Stanford University.	John	Stanford University	schools_attended
+John completed his studies at Stanford University.	John	Stanford University	schools_attended
+John got married to Jane	John	Jane	spouse
+John graduated from Stanford University.	John	Stanford University	schools_attended
+John has been a resident of Palo Alto for many years.	John	Palo Alto	cities_of_residence
+John has been living in Palo Alto for a considerable amount of time.	John	Palo Alto	cities_of_residence
+John has lived in Palo Alto	John	Palo Alto	cities_of_residence
+John has studied at Stanford University	John	Stanford University	schools_attended
+John is a native of Palo Alto.	John	Palo Alto	cities_of_residence
+John is a resident of Palo Alto.	John	Palo Alto	cities_of_residence
+John is a staff member at Apple.	John	Apple	employee_of
+John is a student at Stanford University.	John	Stanford University	schools_attended
+John is an Apple employee.	John	Apple	employee_of
+John is an employee of Apple	John	Apple	employee_of
+John is enrolled at Stanford University.	John	Stanford University	schools_attended
+John is married to Jane	John	Jane	spouse
+John is studying at Stanford University.	John	Stanford University	schools_attended
+John is working towards a degree at Stanford University.	John	Stanford University	schools_attended
+John lives in Palo Alto	John	Palo Alto	cities_of_residence
+John married Jane.	John	Jane	spouse
+John pursued his studies at Stanford University.	John	Stanford University	schools_attended
+John resides in Palo Alto.	John	Palo Alto	cities_of_residence
+John studied at Stanford University	John	Stanford University	schools_attended
+John studies at Stanford University	John	Stanford University	schools_attended
+John used to live in Palo Alto	John	Palo Alto	cities_of_residence
+John was a student at Stanford University.	John	Stanford University	schools_attended
+John was employed by Apple.	John	Apple	employee_of
+John was married to Jane	John	Jane	spouse
+John worked for Apple.	John	Apple	employee_of
+John works for Apple.	John	Apple	employee_of
+John's Alma Mater is Stanford University.	John	Stanford University	schools_attended
+John's wife is Jane.	John	Jane	spouse

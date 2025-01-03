@@ -1,0 +1,12 @@
+[
+  {
+    "NodeName": "Joel Silver",
+    "RelationshipType": "PRODUCED",
+    "NumberOfConnections": 6
+  },
+  {
+    "NodeName": "Jessica Thompson",
+    "RelationshipType": "REVIEWED",
+    "NumberOfConnections": 6
+  }
+]

@@ -1,0 +1,29 @@
+few_list_focused = [
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1, #i dont know the answer but cypheer correct --> convert 
+0, #syntax
+0, #false query 
+0, # i don't know 
+1,
+1,
+1, #dont know answer corret cypher --> convert 
+1, #correct querh bur fewer return --> convert 
+1, #corerct cypher wrong final IMPROVED--> convert 
+1,
+0, #SyntaxError
+0, # false query 
+1, #CORRECT CYPHER BUT DONT NO ANSWER IMPROVED --> convert 
+]

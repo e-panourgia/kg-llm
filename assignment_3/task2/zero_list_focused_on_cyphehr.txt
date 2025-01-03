@@ -1,0 +1,29 @@
+list_zero_focused_on_cypher =[
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1, #Answer:  I don't know the answer.but cypher correct -----> convert to 1
+1,
+1, #same 13  #Answer:  I don't know the answer.but cypher correct -----> convert to 1
+1, #same  #Answer:  I don't know the answer.but cypher correct -----> convert to 1
+1, #few data-----> convert to 1
+1, #few data-----> convert to 1
+1,
+1,
+0, #cypher wrong born
+1, #same-----> convert to 1
+0, #cypher where omit
+0, #cypher where 
+0, #cypher where 
+0, #synatx
+0, #synatx 
+0 #syntax
+]

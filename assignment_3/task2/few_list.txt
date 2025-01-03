@@ -1,0 +1,29 @@
+few_list = [
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+0, #i dont know the answer but cypheer correct
+0, #syntax
+0, #false query TODO 
+0, # i don't know TODO
+1,
+1,
+0, #dont know answer corret cypher 
+0, #correct querh bur fewer return 
+0, #corerct cypher wrong final IMPROVED
+1,
+0, #SyntaxError
+0, todo query IMPROVED
+0, CORRECT CYPHER BUT DONT NO ANSWER IMPROVED 
+]

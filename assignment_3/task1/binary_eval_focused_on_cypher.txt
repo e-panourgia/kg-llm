@@ -1,0 +1,29 @@
+simple_focused_on_cypher_errors = [
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1, 
+1, #(Answer:  I don't know the answer., while it finds it..) -----------> convert to 1 
+1, #(Answer:  I don't know the answer., while it finds it..) -----------> convert to 1 
+1, #(Answer:  I don't know the answer., while it finds it..) -----------> convert to 1 
+1, 
+1, #returns fewer rowns in the final answer -----------> convert to 1 
+1, #returns fewer rowns  in the final answer -----------> convert to 1 
+1,
+1, #(Answer:  I don't know the answer., while it finds it..)-----------> convert to 1 
+0, #(Answer:  I don't know the answer.)
+1, #(Answer:  I don't know the answer.)-----------> convert to 1 
+0, #(diffrent returns)
+0, #syntax 
+0, #(Answer:  I don't know the answer.)
+0, #syntax error 
+0, #syntax error
+0, #syntax error 
+]

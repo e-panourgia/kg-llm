@@ -1,0 +1,347 @@
+2 ====================What is the tagline of the movie The Matrix?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (m:Movie {title: "The Matrix"})
+RETURN m.tagline;[0m
+Full Context:
+[32;1m[1;3m[{'m.tagline': 'Welcome to the Real World'}][0m
+
+[1m> Finished chain.[0m
+Answer:  Welcome to the Real World.
+3 ====================When was the movie The Matrix released?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (m:Movie {title: "The Matrix"})
+RETURN m.released[0m
+Full Context:
+[32;1m[1;3m[{'m.released': 1999}][0m
+
+[1m> Finished chain.[0m
+Answer:  The movie The Matrix was released in 1999.
+4 ====================What is the birth year of Keanu Reeves?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Keanu Reeves"})
+RETURN p.born as BirthYear[0m
+Full Context:
+[32;1m[1;3m[{'BirthYear': 1964}][0m
+
+[1m> Finished chain.[0m
+Answer:  1964
+5 ====================Who acted in the movie The Matrix?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person)-[r:ACTED_IN]->(m:Movie)
+WHERE m.title = 'The Matrix'
+RETURN p.name as Actor, r.roles as Roles[0m
+Full Context:
+[32;1m[1;3m[{'Actor': 'Emil Eifrem', 'Roles': ['Emil']}, {'Actor': 'Hugo Weaving', 'Roles': ['Agent Smith']}, {'Actor': 'Laurence Fishburne', 'Roles': ['Morpheus']}, {'Actor': 'Carrie-Anne Moss', 'Roles': ['Trinity']}, {'Actor': 'Keanu Reeves', 'Roles': ['Neo']}][0m
+
+[1m> Finished chain.[0m
+Answer:  Emil Eifrem, Hugo Weaving, Laurence Fishburne, Carrie-Anne Moss, and Keanu Reeves acted in the movie The Matrix.
+6 ====================Who produced the movie The Matrix?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person)-[:PRODUCED]->(m:Movie {title: "The Matrix"})
+RETURN p.name[0m
+Full Context:
+[32;1m[1;3m[{'p.name': 'Joel Silver'}][0m
+
+[1m> Finished chain.[0m
+Answer:  Joel Silver produced the movie The Matrix.
+7 ====================Who wrote the movie A Few Good Men?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person)-[:WROTE]->(m:Movie {title: "A Few Good Men"})
+RETURN p.name[0m
+Full Context:
+[32;1m[1;3m[{'p.name': 'Aaron Sorkin'}][0m
+
+[1m> Finished chain.[0m
+Answer:  Aaron Sorkin wrote the movie A Few Good Men.
+8 ====================What are the titles and release years of movies directed by Lana Wachowski that were released after 2003?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Lana Wachowski"})-[:DIRECTED]->(m:Movie)
+WHERE m.released > 2003
+RETURN m.title, m.released;[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'Speed Racer', 'm.released': 2008}, {'m.title': 'Cloud Atlas', 'm.released': 2012}][0m
+
+[1m> Finished chain.[0m
+Answer:  Speed Racer (2008), Cloud Atlas (2012)
+9 ====================What are the titles and release years of movies in which Keanu Reeves acted after the year 2000?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Keanu Reeves"})-[:ACTED_IN]->(m:Movie)
+WHERE m.released > 2000
+RETURN m.title, m.released;[0m
+Full Context:
+[32;1m[1;3m[{'m.title': "Something's Gotta Give", 'm.released': 2003}, {'m.title': 'The Matrix Revolutions', 'm.released': 2003}, {'m.title': 'The Matrix Reloaded', 'm.released': 2003}][0m
+
+[1m> Finished chain.[0m
+Answer:  Something's Gotta Give (2003), The Matrix Revolutions (2003), The Matrix Reloaded (2003)
+10 ====================What are the titles and release years of movies produced by Joel Silver that were released after 2006?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Joel Silver"})-[:PRODUCED]->(m:Movie)
+WHERE m.released > 2006
+RETURN m.title, m.released;[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'Speed Racer', 'm.released': 2008}, {'m.title': 'Ninja Assassin', 'm.released': 2009}][0m
+
+[1m> Finished chain.[0m
+Answer:  Speed Racer (2008), Ninja Assassin (2009)
+11 ====================What is the name of the movie that Lilly Wachowski directed and in which Emil Eifrem acted?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p1:Person {name: "Lilly Wachowski"})-[:DIRECTED]->(m:Movie)<-[:ACTED_IN]-(p2:Person {name: "Emil Eifrem"})
+RETURN m.title[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'The Matrix'}][0m
+
+[1m> Finished chain.[0m
+Answer:  The Matrix
+12 ====================What is the name of the movie that Jim Cash wrote and in which Val Kilmer acted?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p1:Person {name: "Jim Cash"})-[:WROTE]->(m:Movie)<-[:ACTED_IN]-(p2:Person {name: "Val Kilmer"})
+RETURN m.title[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'Top Gun'}][0m
+
+[1m> Finished chain.[0m
+Answer:  The movie that Jim Cash wrote and in which Val Kilmer acted is Top Gun.
+13 ====================What movies did Rob Reiner direct that were also written by Aaron Sorkin?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p1:Person {name: "Rob Reiner"})-[:DIRECTED]->(m:Movie)<-[:WROTE]-(p2:Person {name: "Aaron Sorkin"})
+RETURN m.title[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'A Few Good Men'}][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+14 ====================What movies did Rob Reiner direct and Aaron Sorkin write that were released after 1990?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Rob Reiner"})-[:DIRECTED]->(m:Movie)<-[:WROTE]-(p2:Person {name: "Aaron Sorkin"})
+WHERE m.released > 1990
+RETURN m.title, m.released[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'A Few Good Men', 'm.released': 1992}][0m
+
+[1m> Finished chain.[0m
+Answer:  A Few Good Men, released in 1992.
+15 ====================Which movies did Jim Cash write and Val Kilmer act in, released between 1986 and 2000, that do not have a rating? Return movie, released date and rating.============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p1:Person {name: "Jim Cash"})-[:WROTE]->(m:Movie)<-[:ACTED_IN]-(p2:Person {name: "Val Kilmer"})
+WHERE m.released >= 1986 AND m.released <= 2000 AND NOT EXISTS((p1)-[:REVIEWED]->(m))
+RETURN m.title, m.released, NULL as rating[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'Top Gun', 'm.released': 1986, 'rating': None}][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+16 ====================What movies did Lilly Wachowski direct and Emil Eifrem act in, that were released in or after 1999, and have no rating information?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Lilly Wachowski"})-[:DIRECTED]->(m:Movie)<-[:ACTED_IN]-(a:Person {name: "Emil Eifrem"})
+WHERE m.released >= 1999 AND NOT EXISTS((p)-[:REVIEWED]->(m))
+RETURN m.title, m.released;[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'The Matrix', 'm.released': 1999}][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+17 ====================What movies did Lana Wachowski direct that do not feature Keanu Reeves as an actor?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Lana Wachowski"})-[:DIRECTED]->(m:Movie)
+WHERE NOT (p)-[:ACTED_IN]->(:Movie {title: "Keanu Reeves"})
+RETURN m.title[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'Speed Racer'}, {'m.title': 'Cloud Atlas'}, {'m.title': 'The Matrix Revolutions'}, {'m.title': 'The Matrix Reloaded'}, {'m.title': 'The Matrix'}][0m
+
+[1m> Finished chain.[0m
+Answer:  Lana Wachowski directed "Speed Racer" and "Cloud Atlas" that do not feature Keanu Reeves as an actor.
+18 ====================What movies did Lana Wachowski direct that do not feature any of the following actors: Emil Eifrem, Hugo Weaving, Laurence Fishburne, Carrie-Anne Moss, or Keanu Reeves?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Lana Wachowski"})-[:DIRECTED]->(m:Movie)
+WHERE NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix Reloaded"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix Revolutions"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix Resurrections"})
+AND NOT (p)-[:ACTED_IN]->(:Movie {title: "V for Vendetta"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "Cloud Atlas"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "Jupiter Ascending"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "Speed Racer"})
+AND NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix Reloaded"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix Revolutions"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "The Matrix Resurrections"})
+RETURN m.title[0m
+Full Context:
+[32;1m[1;3m[{'m.title': 'Speed Racer'}, {'m.title': 'Cloud Atlas'}, {'m.title': 'The Matrix Revolutions'}, {'m.title': 'The Matrix Reloaded'}, {'m.title': 'The Matrix'}][0m
+
+[1m> Finished chain.[0m
+Answer:  Lana Wachowski directed "Speed Racer" and "Cloud Atlas" that do not feature any of the mentioned actors.
+19 ====================What movies did Taylor Hackford direct that do not feature any of the following actors: Al Pacino, Charlize Theron, or Keanu Reeves?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person {name: "Taylor Hackford"})-[:DIRECTED]->(m:Movie)
+WHERE NOT (p)-[:ACTED_IN]->(:Movie {title: "Al Pacino"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "Charlize Theron"}) AND NOT (p)-[:ACTED_IN]->(:Movie {title: "Keanu Reeves"})
+RETURN m.title[0m
+Full Context:
+[32;1m[1;3m[{'m.title': "The Devil's Advocate"}][0m
+
+[1m> Finished chain.[0m
+Answer:  The Devil's Advocate
+20 ====================Which producers have produced at least four movies released after 1999?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person)-[:PRODUCED]->(m:Movie)
+WHERE m.released > 1999
+WITH p, COUNT(m) AS numMovies
+WHERE numMovies >= 4
+RETURN p.name as Producer, numMovies as NumMoviesProduced[0m
+Full Context:
+[32;1m[1;3m[{'Producer': 'Joel Silver', 'NumMoviesProduced': 5}][0m
+
+[1m> Finished chain.[0m
+Answer:  Joel Silver has produced at least four movies released after 1999.
+21 ====================How many movies did each director direct between 2009 and 2020?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (d:Person)-[:DIRECTED]->(m:Movie)
+WHERE d.born >= 2009 AND d.born <= 2020
+RETURN d.name, COUNT(m) as numMoviesDirected[0m
+Full Context:
+[32;1m[1;3m[][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+22 ====================What is the total sum of ratings for movies directed by each director that were released from 2012 onwards?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person)-[:DIRECTED]->(m:Movie)
+WHERE m.released >= 2012
+WITH p, SUM(m.rating) AS totalRating
+RETURN p.name, totalRating[0m
+Full Context:
+[32;1m[1;3m[{'p.name': 'Tom Tykwer', 'totalRating': 0}, {'p.name': 'Lana Wachowski', 'totalRating': 0}, {'p.name': 'Lilly Wachowski', 'totalRating': 0}][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+23 ====================Which movies have different people as the writer, director, and actor?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p1:Person)-[:WROTE]->(m:Movie)<-[:DIRECTED]-(p2:Person),
+(p1)-[:WROTE]->(m)<-[:ACTED_IN]-(p3:Person)
+WHERE p1 <> p2 AND p1 <> p3 AND p2 <> p3
+RETURN DISTINCT m.title[0m
+Full Context:
+[32;1m[1;3m[][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+24 ====================Which movies have different people as the reviewer, producer, and writer?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person)-[:REVIEWED]->(m:Movie)<-[:PRODUCED]-(p2:Person),
+(p:Person)-[:REVIEWED]->(m)<-[:WROTE]-(p3:Person)
+WHERE p <> p2 AND p <> p3 AND p2 <> p3
+RETURN DISTINCT m.title[0m
+Full Context:
+[32;1m[1;3m[][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+25 ====================Which movies have different people as the actor, reviewer, and writer, and the actor was born after 1970?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (p:Person)-[:ACTED_IN]->(m:Movie)<-[:REVIEWED]-(p2:Person)-[:WROTE]->(m)
+WHERE p.born > 1970
+RETURN DISTINCT m.title;[0m
+Full Context:
+[32;1m[1;3m[][0m
+
+[1m> Finished chain.[0m
+Answer:  I don't know the answer.
+26 ====================Which node has the highest number of connections overall across all relationship types in the graph, and what is the relationship type associated with it?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (n)
+WITH n, size((n)-[]-()) as connections
+ORDER BY connections DESC
+RETURN n, labels(n), connections
+LIMIT 1;[0m
+Problem answering the question:  {code: Neo.ClientError.Statement.SyntaxError} {message: A pattern expression should only be used in order to test the existence of a pattern. It can no longer be used inside the function size(), an alternative is to replace size() with COUNT {}. (line 2, column 14 (offset: 23))
+"WITH n, size((n)-[]-()) as connections"
+              ^}
+27 ====================Which node has the lowest number of connections overall across all relationship types in the graph, and what is the relationship type associated with it?============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (n)
+RETURN n, size((n)-[]-()) as connections
+ORDER BY connections ASC
+LIMIT 1[0m
+Problem answering the question:  {code: Neo.ClientError.Statement.SyntaxError} {message: A pattern expression should only be used in order to test the existence of a pattern. It can no longer be used inside the function size(), an alternative is to replace size() with COUNT {}. (line 2, column 16 (offset: 25))
+"RETURN n, size((n)-[]-()) as connections"
+                ^}
+28 ====================Which nodes in the graph have exactly 6 connections for any relationship type, and what is the relationship type associated with each node? (use sub query)============================================
+
+
+[1m> Entering new GraphCypherQAChain chain...[0m
+Generated Cypher:
+[32;1m[1;3mMATCH (n)
+WHERE size((n)-[]-()) = 6
+RETURN n, [(n)-[r]->() | type(r)] as relationship_types[0m
+Problem answering the question:  {code: Neo.ClientError.Statement.SyntaxError} {message: A pattern expression should only be used in order to test the existence of a pattern. It can no longer be used inside the function size(), an alternative is to replace size() with COUNT {}. (line 2, column 12 (offset: 21))
+"WHERE size((n)-[]-()) = 6"
+            ^}

@@ -1,0 +1,100 @@
+text	subject	object	relation_in_sentence
+I hope Michael finds a home in San Francisco.	Michael	San Francisco	unknown
+I hope John would belong in Miami.	John	Miami	unknown
+Wouldn't it be ideal if Sophia settled down in Miami?	Sophia	Miami	unknown
+It would be nice if Michael lived in New York.	Michael	New York	unknown
+I hope Alice would belong in New York.	Alice	New York	unknown
+I would love to see John call San Francisco home.	John	San Francisco	unknown
+Wouldn't it be great if Michael resided in Miami?	Michael	Miami	unknown
+Sophia should consider living in New York.	Sophia	New York	unknown
+Sophia should consider living in Los Angeles.	Sophia	Los Angeles	unknown
+It would be wonderful if John relocated to Los Angeles.	John	Los Angeles	unknown
+Michael should apply for a role at Microsoft.	Michael	Microsoft	unknown
+I hope Sophia would belong at Google.	Sophia	Google	unknown
+It would be fantastic if Michael joined Tesla.	Michael	Tesla	unknown
+I hope Alice would belong at Tesla.	Alice	Tesla	unknown
+Michael should apply for a role at Amazon.	Michael	Amazon	unknown
+I hope Sophia would belong at Tesla.	Sophia	Tesla	unknown
+I hope Sophia would belong at Amazon.	Sophia	Amazon	unknown
+Sophia could make a difference at Microsoft.	Sophia	Microsoft	unknown
+It would be nice if Alice worked for Microsoft.	Alice	Microsoft	unknown
+I hope Michael becomes an employee of Google.	Michael	Google	unknown
+Michael could make a difference at Microsoft.	Michael	Microsoft	unknown
+Wouldn't it be great if Alice got a job at Amazon?	Alice	Amazon	unknown
+I wish Sophia could find work at Google.	Sophia	Google	unknown
+Alice would fit well at Stanford University.	Alice	Stanford University	unknown
+It would be ideal if Sophia pursued education at MIT.	Sophia	MIT	unknown
+Wouldn't it be amazing if Sophia enrolled at Harvard University?	Sophia	Harvard University	unknown
+It would be great if John studied at Harvard University.	John	Harvard University	unknown
+Wouldn't it be amazing if Sophia enrolled at Stanford University?	Sophia	Stanford University	unknown
+Sophia deserves a chance to study at UCLA.	Sophia	UCLA	unknown
+John deserves a chance to study at MIT.	John	MIT	unknown
+It would be great if Alice studied at MIT.	Alice	MIT	unknown
+I wish Alice could attend Harvard University.	Alice	Harvard University	unknown
+It would be ideal if Sophia pursued education at Harvard University.	Sophia	Harvard University	unknown
+I hope Alice gets into UCLA.	Alice	UCLA	unknown
+I hope Michael gets into UCLA.	Michael	UCLA	unknown
+I hope Sophia gets into UCLA.	Sophia	UCLA	unknown
+I hope Alice gets into MIT.	Alice	MIT	unknown
+Wouldn't it be amazing if John enrolled at UCLA?	John	UCLA	unknown
+I wish Alice would marry Mark.	Alice	Mark	unknown
+I think John and Mark are a perfect match.	John	Mark	unknown
+Michael should consider a relationship with David.	Michael	David	unknown
+Sophia and Mark belong together.	Sophia	Mark	unknown
+I would love to see John and Jane as partners.	John	Jane	unknown
+Sophia should consider a relationship with Emma.	Sophia	Emma	unknown
+John should consider a relationship with Emma.	John	Emma	unknown
+I hope Alice and David become unknowns someday.	Alice	David	unknown
+Sophia should marry Jane.	Sophia	Jane	unknown
+Michael should consider a relationship with Mark.	Michael	Mark	unknown
+I hope Sophia and David become unknowns someday.	Sophia	David	unknown
+I hope Alice and Emma become unknowns someday.	Alice	Emma	unknown
+I think Sophia and David are a perfect match.	Sophia	David	unknown
+Alice is rumored to have stayed in Los Angeles.	Alice	Los Angeles	unknown
+There's speculation that Sophia once resided in San Francisco.	Sophia	San Francisco	unknown
+There's a chance John once lived in San Francisco.	John	San Francisco	unknown
+It is possible that Michael lived in Miami.	Michael	Miami	unknown
+It seems likely that Alice may have lived in New York at some point.	Alice	New York	unknown
+John may have had a temporary home in New York.	John	New York	unknown
+Sophia might have resided in Miami.	Sophia	Miami	unknown
+Sophia is rumored to have stayed in Los Angeles.	Sophia	Los Angeles	unknown
+John might have resided in Miami.	John	Miami	unknown
+Alice might possibly have been a resident of Miami.	Alice	Miami	unknown
+There's a chance John once lived in Los Angeles.	John	Los Angeles	unknown
+Sophia could have had a residence in New York.	Sophia	New York	unknown
+Michael might have resided in San Francisco.	Michael	San Francisco	unknown
+There's speculation that Sophia once resided in Los Angeles.	Sophia	Los Angeles	unknown
+It seems likely that Michael may have worked for Google at some point.	Michael	Google	unknown
+Alice may have been associated with Microsoft's team.	Alice	Microsoft	unknown
+There's speculation that Alice once had a job at Tesla.	Alice	Tesla	unknown
+Michael might be an employee of Tesla.	Michael	Tesla	unknown
+Alice could have been hired by Google before.	Alice	Google	unknown
+Michael might be an employee of Amazon.	Michael	Amazon	unknown
+It seems likely that Alice may have worked for Amazon at some point.	Alice	Amazon	unknown
+Sophia could have been hired by Google before.	Sophia	Google	unknown
+Michael could have been hired by Microsoft before.	Michael	Microsoft	unknown
+Rumors suggest John might have been employed by Tesla.	John	Tesla	unknown
+There's a chance John is employed by Google.	John	Google	unknown
+Perhaps Alice was part of the Tesla workforce.	Alice	Tesla	unknown
+John might have held a position at Microsoft.	John	Microsoft	unknown
+Perhaps Michael was part of the Microsoft workforce.	Michael	Microsoft	unknown
+Perhaps John has been enrolled at MIT.	John	MIT	unknown
+Perhaps John has been enrolled at Stanford University.	John	Stanford University	unknown
+It is possible that Michael studied at MIT.	Michael	MIT	unknown
+Rumors suggest Alice might have taken courses at MIT.	Alice	MIT	unknown
+Michael might have been an alumni of UCLA.	Michael	UCLA	unknown
+Sophia may have spent some time studying at Harvard University.	Sophia	Harvard University	unknown
+It is possible that Alice studied at Harvard University.	Alice	Harvard University	unknown
+There's a chance Sophia is currently attending Stanford University.	Sophia	Stanford University	unknown
+It is possible that Michael studied at Stanford University.	Michael	Stanford University	unknown
+It seems likely that Alice may have studied at UCLA previously.	Alice	UCLA	unknown
+John might have been married to Jane.	John	Jane	unknown
+Michael could have been in a marital relationship with Jane.	Michael	Jane	unknown
+It is possible that Alice is married to David.	Alice	David	unknown
+There's speculation that Sophia and Emma were once married.	Sophia	Emma	unknown
+Michael could have been in a marital relationship with Mark.	Michael	Mark	unknown
+There's a chance Michael was the unknown of David.	Michael	David	unknown
+John might have been married to Emma.	John	Emma	unknown
+It's rumored that John and Mark could have been unknowns.	John	Mark	unknown
+Michael might possibly have tied the knot with Emma.	Michael	Emma	unknown
+It's rumored that Alice and Emma could have been unknowns.	Alice	Emma	unknown

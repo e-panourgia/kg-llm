@@ -1,0 +1,896 @@
+preferred_label_esco,potential_entity_variants_dbpedia,class_label_dbpedia,entity_valid_variants_dbpedia,llm_formatted_entity,llm_expanded_class_label
+evolutionary biology,"['Evolutionary_biology', 'evolutionary_biology', 'evolutionary_Biology', 'Evolutionary_Biology']","['disease', 'person function']",['Evolutionary_biology'],evolutionary biology,disease
+evolutionary biology,"['Evolutionary_biology', 'evolutionary_biology', 'evolutionary_Biology', 'Evolutionary_Biology']","['disease', 'person function']",['Evolutionary_biology'],evolutionary biology,person function
+conflict management,"['conflict_Management', 'Conflict_management', 'Conflict_Management', 'conflict_management']",['Election'],['Conflict_management'],conflict management,Election
+tropical medicine,"['tropical_medicine', 'Tropical_medicine', 'tropical_Medicine', 'Tropical_Medicine']","['organisation', 'person function']",['Tropical_medicine'],tropical medicine,organisation
+tropical medicine,"['tropical_medicine', 'Tropical_medicine', 'tropical_Medicine', 'Tropical_Medicine']","['organisation', 'person function']",['Tropical_medicine'],tropical medicine,person function
+public health,"['Public_health', 'Public_Health', 'public_Health', 'public_health']","['person function', 'person function']","['Public_health', 'Public_Health']",public health,person function
+public health,"['Public_health', 'Public_Health', 'public_Health', 'public_health']","['person function', 'person function']","['Public_health', 'Public_Health']",public health,person function
+geriatrics,"['Geriatrics', 'geriatrics']","['medical specialty', 'Food']",['Geriatrics'],geriatrics,medical specialty
+geriatrics,"['Geriatrics', 'geriatrics']","['medical specialty', 'Food']",['Geriatrics'],geriatrics,Food
+human resource management,"['human_Resource_Management', 'Human_Resource_Management', 'Human_Resource_management', 'human_resource_Management', 'human_Resource_management', 'Human_resource_Management', 'Human_resource_management', 'human_resource_management']","['disease', 'university', 'university']","['Human_resource_management', 'Human_Resource_Management']",human resource management,disease
+human resource management,"['human_Resource_Management', 'Human_Resource_Management', 'Human_Resource_management', 'human_resource_Management', 'human_Resource_management', 'Human_resource_Management', 'Human_resource_management', 'human_resource_management']","['disease', 'university', 'university']","['Human_resource_management', 'Human_Resource_Management']",human resource management,university
+human resource management,"['human_Resource_Management', 'Human_Resource_Management', 'Human_Resource_management', 'human_resource_Management', 'human_Resource_management', 'Human_resource_Management', 'Human_resource_management', 'human_resource_management']","['disease', 'university', 'university']","['Human_resource_management', 'Human_Resource_Management']",human resource management,university
+agronomy,"['Agronomy', 'agronomy']","['work', 'person function']",['Agronomy'],agronomy,work
+agronomy,"['Agronomy', 'agronomy']","['work', 'person function']",['Agronomy'],agronomy,person function
+otorhinolaryngology,"['Otorhinolaryngology', 'otorhinolaryngology']","['place', 'medical specialty', 'person function']",['Otorhinolaryngology'],otorhinolaryngology,place
+otorhinolaryngology,"['Otorhinolaryngology', 'otorhinolaryngology']","['place', 'medical specialty', 'person function']",['Otorhinolaryngology'],otorhinolaryngology,medical specialty
+otorhinolaryngology,"['Otorhinolaryngology', 'otorhinolaryngology']","['place', 'medical specialty', 'person function']",['Otorhinolaryngology'],otorhinolaryngology,person function
+signal processing,"['signal_processing', 'Signal_processing', 'signal_Processing', 'Signal_Processing']","['company', 'music genre']",['Signal_processing'],signal processing,company
+signal processing,"['signal_processing', 'Signal_processing', 'signal_Processing', 'Signal_Processing']","['company', 'music genre']",['Signal_processing'],signal processing,music genre
+analytical chemistry,"['analytical_chemistry', 'Analytical_Chemistry', 'analytical_Chemistry', 'Analytical_chemistry']",['book'],['Analytical_chemistry'],analytical chemistry,book
+cold chain,"['cold_Chain', 'Cold_chain', 'cold_chain', 'Cold_Chain']",['company'],['Cold_chain'],cold chain,company
+sporting events,"['sporting_Events', 'Sporting_events', 'sporting_events', 'Sporting_Events']",['music genre'],['Sporting_events'],sporting events,music genre
+power engineering,"['power_engineering', 'Power_Engineering', 'Power_engineering', 'power_Engineering']",['disease'],['Power_engineering'],power engineering,disease
+political parties,"['political_Parties', 'Political_Parties', 'political_parties', 'Political_parties']","['work', 'book', 'written work']",['Political_Parties'],political parties,work
+political parties,"['political_Parties', 'Political_Parties', 'political_parties', 'Political_parties']","['work', 'book', 'written work']",['Political_Parties'],political parties,book
+political parties,"['political_Parties', 'Political_Parties', 'political_parties', 'Political_parties']","['work', 'book', 'written work']",['Political_Parties'],political parties,written work
+machine translation,"['machine_Translation', 'Machine_translation', 'Machine_Translation', 'machine_translation']",['music genre'],['Machine_translation'],machine translation,music genre
+health care system,"['Health_care_System', 'health_Care_system', 'health_care_system', 'Health_Care_System', 'Health_Care_system', 'Health_care_system', 'health_Care_System', 'health_care_System']",['music genre'],['Health_Care_System'],health care system,music genre
+public law,"['public_Law', 'Public_Law', 'Public_law', 'public_law']",['university'],['Public_law'],public law,university
+pharmacokinetics,"['pharmacokinetics', 'Pharmacokinetics']",['organisation'],['Pharmacokinetics'],pharmacokinetics,organisation
+Christianity,"['Christianity', 'christianity']","['ethnic group', 'music genre']",['Christianity'],christianity,ethnic group
+Christianity,"['Christianity', 'christianity']","['ethnic group', 'music genre']",['Christianity'],christianity,music genre
+photonics,"['Photonics', 'photonics']",['work'],['Photonics'],photonics,work
+cervical screening,"['Cervical_screening', 'Cervical_Screening', 'cervical_Screening', 'cervical_screening']",['Election'],['Cervical_screening'],cervical screening,Election
+audiology,"['Audiology', 'audiology']",['organisation'],['Audiology'],audiology,organisation
+psychopathology,"['Psychopathology', 'psychopathology']",['book'],['Psychopathology'],psychopathology,book
+stomatology,"['stomatology', 'Stomatology']",['person function'],['Stomatology'],stomatology,person function
+islamic studies,"['islamic_Studies', 'Islamic_studies', 'islamic_studies', 'Islamic_Studies']","['music genre', 'person function']","['Islamic_studies', 'Islamic_Studies']",islamic studies,music genre
+islamic studies,"['islamic_Studies', 'Islamic_studies', 'islamic_studies', 'Islamic_Studies']","['music genre', 'person function']","['Islamic_studies', 'Islamic_Studies']",islamic studies,person function
+biomechanics,"['biomechanics', 'Biomechanics']",['book'],['Biomechanics'],biomechanics,book
+sociology,"['Sociology', 'sociology']","['book', 'person function']",['Sociology'],sociology,book
+sociology,"['Sociology', 'sociology']","['book', 'person function']",['Sociology'],sociology,person function
+Yiddish,"['Yiddish', 'yiddish']",['language'],['Yiddish'],yiddish,language
+horary astrology,"['horary_astrology', 'Horary_astrology', 'horary_Astrology', 'Horary_Astrology']",['organisation'],['Horary_astrology'],horary astrology,organisation
+distributed computing,"['distributed_Computing', 'Distributed_Computing', 'Distributed_computing', 'distributed_computing']","['music genre', 'music genre']","['Distributed_computing', 'Distributed_Computing']",distributed computing,music genre
+distributed computing,"['distributed_Computing', 'Distributed_Computing', 'Distributed_computing', 'distributed_computing']","['music genre', 'music genre']","['Distributed_computing', 'Distributed_Computing']",distributed computing,music genre
+endoscopy,"['Endoscopy', 'endoscopy']",['disease'],['Endoscopy'],endoscopy,disease
+mining engineering,"['Mining_engineering', 'mining_Engineering', 'Mining_Engineering', 'mining_engineering']","['sport', 'person function', 'music genre']","['Mining_engineering', 'Mining_Engineering']",mining engineering,sport
+mining engineering,"['Mining_engineering', 'mining_Engineering', 'Mining_Engineering', 'mining_engineering']","['sport', 'person function', 'music genre']","['Mining_engineering', 'Mining_Engineering']",mining engineering,person function
+mining engineering,"['Mining_engineering', 'mining_Engineering', 'Mining_Engineering', 'mining_engineering']","['sport', 'person function', 'music genre']","['Mining_engineering', 'Mining_Engineering']",mining engineering,music genre
+acute care,"['Acute_care', 'Acute_Care', 'acute_Care', 'acute_care']",['organisation'],['Acute_care'],acute care,organisation
+MATLAB,"['Matlab', 'matlab']",['programming language'],['Matlab'],matlab,programming language
+mycology,"['Mycology', 'mycology']","['organisation', 'person function']",['Mycology'],mycology,organisation
+mycology,"['Mycology', 'mycology']","['organisation', 'person function']",['Mycology'],mycology,person function
+psychophysiology,"['psychophysiology', 'Psychophysiology']",['organisation'],['Psychophysiology'],psychophysiology,organisation
+Eclipse,"['Eclipse', 'eclipse']","['album', 'sports event']",['Eclipse'],eclipse,album
+Eclipse,"['Eclipse', 'eclipse']","['album', 'sports event']",['Eclipse'],eclipse,sports event
+Frostbite,"['frostbite', 'Frostbite']",['disease'],['Frostbite'],frostbite,disease
+autism,"['Autism', 'autism']",['disease'],['Autism'],autism,disease
+CoffeeScript,"['Coffeescript', 'coffeescript']",['programming language'],['Coffeescript'],coffeescript,programming language
+phonetics,"['Phonetics', 'phonetics']","['organisation', 'university']",['Phonetics'],phonetics,organisation
+phonetics,"['Phonetics', 'phonetics']","['organisation', 'university']",['Phonetics'],phonetics,university
+PHP,"['Php', 'php']",['programming language'],['Php'],php,programming language
+Sanskrit,"['Sanskrit', 'sanskrit']",['language'],['Sanskrit'],sanskrit,language
+kinesiology,"['Kinesiology', 'kinesiology']",['book'],['Kinesiology'],kinesiology,book
+geophysics,"['Geophysics', 'geophysics']","['administrative region', 'person function']",['Geophysics'],geophysics,administrative region
+geophysics,"['Geophysics', 'geophysics']","['administrative region', 'person function']",['Geophysics'],geophysics,person function
+Xcode,"['Xcode', 'xcode']","['software', 'work']",['Xcode'],xcode,software
+Xcode,"['Xcode', 'xcode']","['software', 'work']",['Xcode'],xcode,work
+e-learning,"['E-learning', 'e-learning']",['music genre'],['E-learning'],e-learning,music genre
+Java,"['java', 'Java']","['place', 'island', 'populated place', 'country']",['Java'],java,place
+Java,"['java', 'Java']","['place', 'island', 'populated place', 'country']",['Java'],java,island
+Java,"['java', 'Java']","['place', 'island', 'populated place', 'country']",['Java'],java,populated place
+Java,"['java', 'Java']","['place', 'island', 'populated place', 'country']",['Java'],java,country
+literary criticism,"['Literary_Criticism', 'literary_Criticism', 'literary_criticism', 'Literary_criticism']","['book', 'music genre', 'music genre']","['Literary_Criticism', 'Literary_criticism']",literary criticism,book
+literary criticism,"['Literary_Criticism', 'literary_Criticism', 'literary_criticism', 'Literary_criticism']","['book', 'music genre', 'music genre']","['Literary_Criticism', 'Literary_criticism']",literary criticism,music genre
+literary criticism,"['Literary_Criticism', 'literary_Criticism', 'literary_criticism', 'Literary_criticism']","['book', 'music genre', 'music genre']","['Literary_Criticism', 'Literary_criticism']",literary criticism,music genre
+aeronomy,"['aeronomy', 'Aeronomy']",['work'],['Aeronomy'],aeronomy,work
+cybernetics,"['Cybernetics', 'cybernetics']","['person function', 'programming language']",['Cybernetics'],cybernetics,person function
+cybernetics,"['Cybernetics', 'cybernetics']","['person function', 'programming language']",['Cybernetics'],cybernetics,programming language
+child psychiatry,"['child_Psychiatry', 'Child_psychiatry', 'child_psychiatry', 'Child_Psychiatry']",['music genre'],['Child_psychiatry'],child psychiatry,music genre
+animal biology,"['animal_Biology', 'Animal_biology', 'Animal_Biology', 'animal_biology']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Biology'],animal biology,periodical literature
+animal biology,"['animal_Biology', 'Animal_biology', 'Animal_Biology', 'animal_biology']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Biology'],animal biology,work
+animal biology,"['animal_Biology', 'Animal_biology', 'Animal_Biology', 'animal_biology']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Biology'],animal biology,academic journal
+animal biology,"['animal_Biology', 'Animal_biology', 'Animal_Biology', 'animal_biology']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Biology'],animal biology,written work
+literary theory,"['Literary_theory', 'Literary_Theory', 'literary_Theory', 'literary_theory']","['music genre', 'book', 'person function']","['Literary_Theory', 'Literary_theory']",literary theory,music genre
+literary theory,"['Literary_theory', 'Literary_Theory', 'literary_Theory', 'literary_theory']","['music genre', 'book', 'person function']","['Literary_Theory', 'Literary_theory']",literary theory,book
+literary theory,"['Literary_theory', 'Literary_Theory', 'literary_Theory', 'literary_theory']","['music genre', 'book', 'person function']","['Literary_Theory', 'Literary_theory']",literary theory,person function
+securities,"['securities', 'Securities']",['music genre'],['Securities'],securities,music genre
+Internet of Things,"['Internet_Of_Things', 'internet_of_Things', 'internet_Of_things', 'internet_of_things', 'Internet_Of_things', 'internet_Of_Things', 'Internet_of_Things', 'Internet_of_things']","['music genre', 'broadcaster', 'person function']","['Internet_of_Things', 'Internet_of_things']",internet of things,music genre
+Internet of Things,"['Internet_Of_Things', 'internet_of_Things', 'internet_Of_things', 'internet_of_things', 'Internet_Of_things', 'internet_Of_Things', 'Internet_of_Things', 'Internet_of_things']","['music genre', 'broadcaster', 'person function']","['Internet_of_Things', 'Internet_of_things']",internet of things,broadcaster
+Internet of Things,"['Internet_Of_Things', 'internet_of_Things', 'internet_Of_things', 'internet_of_things', 'Internet_Of_things', 'internet_Of_Things', 'Internet_of_Things', 'Internet_of_things']","['music genre', 'broadcaster', 'person function']","['Internet_of_Things', 'Internet_of_things']",internet of things,person function
+history of theology,"['history_Of_Theology', 'History_of_theology', 'history_of_Theology', 'history_Of_theology', 'history_of_theology', 'History_of_Theology', 'History_Of_theology', 'History_Of_Theology']",['book'],['History_of_theology'],history of theology,book
+obstetrics and gynaecology,"['Obstetrics_and_gynaecology', 'Obstetrics_and_Gynaecology', 'obstetrics_and_Gynaecology', 'Obstetrics_And_Gynaecology', 'obstetrics_and_gynaecology', 'Obstetrics_And_gynaecology', 'obstetrics_And_gynaecology', 'obstetrics_And_Gynaecology']","['Food', 'person function']",['Obstetrics_and_gynaecology'],obstetrics and gynaecology,Food
+obstetrics and gynaecology,"['Obstetrics_and_gynaecology', 'Obstetrics_and_Gynaecology', 'obstetrics_and_Gynaecology', 'Obstetrics_And_Gynaecology', 'obstetrics_and_gynaecology', 'Obstetrics_And_gynaecology', 'obstetrics_And_gynaecology', 'obstetrics_And_Gynaecology']","['Food', 'person function']",['Obstetrics_and_gynaecology'],obstetrics and gynaecology,person function
+foreign affairs,"['Foreign_Affairs', 'foreign_affairs', 'foreign_Affairs', 'Foreign_affairs']","['periodical literature', 'work', 'academic journal', 'magazine', 'written work', 'music genre']","['Foreign_Affairs', 'Foreign_affairs']",foreign affairs,periodical literature
+foreign affairs,"['Foreign_Affairs', 'foreign_affairs', 'foreign_Affairs', 'Foreign_affairs']","['periodical literature', 'work', 'academic journal', 'magazine', 'written work', 'music genre']","['Foreign_Affairs', 'Foreign_affairs']",foreign affairs,work
+foreign affairs,"['Foreign_Affairs', 'foreign_affairs', 'foreign_Affairs', 'Foreign_affairs']","['periodical literature', 'work', 'academic journal', 'magazine', 'written work', 'music genre']","['Foreign_Affairs', 'Foreign_affairs']",foreign affairs,academic journal
+foreign affairs,"['Foreign_Affairs', 'foreign_affairs', 'foreign_Affairs', 'Foreign_affairs']","['periodical literature', 'work', 'academic journal', 'magazine', 'written work', 'music genre']","['Foreign_Affairs', 'Foreign_affairs']",foreign affairs,magazine
+foreign affairs,"['Foreign_Affairs', 'foreign_affairs', 'foreign_Affairs', 'Foreign_affairs']","['periodical literature', 'work', 'academic journal', 'magazine', 'written work', 'music genre']","['Foreign_Affairs', 'Foreign_affairs']",foreign affairs,written work
+foreign affairs,"['Foreign_Affairs', 'foreign_affairs', 'foreign_Affairs', 'Foreign_affairs']","['periodical literature', 'work', 'academic journal', 'magazine', 'written work', 'music genre']","['Foreign_Affairs', 'Foreign_affairs']",foreign affairs,music genre
+health education,"['health_Education', 'Health_education', 'Health_Education', 'health_education']",['person function'],['Health_education'],health education,person function
+precision mechanics,"['Precision_mechanics', 'precision_mechanics', 'precision_Mechanics', 'Precision_Mechanics']",['sport'],['Precision_mechanics'],precision mechanics,sport
+pharmacotherapy,"['pharmacotherapy', 'Pharmacotherapy']",['drug'],['Pharmacotherapy'],pharmacotherapy,drug
+media studies,"['Media_studies', 'Media_Studies', 'media_Studies', 'media_studies']","['sport', 'music genre', 'university']","['Media_studies', 'Media_Studies']",media studies,sport
+media studies,"['Media_studies', 'Media_Studies', 'media_Studies', 'media_studies']","['sport', 'music genre', 'university']","['Media_studies', 'Media_Studies']",media studies,music genre
+media studies,"['Media_studies', 'Media_Studies', 'media_Studies', 'media_studies']","['sport', 'music genre', 'university']","['Media_studies', 'Media_Studies']",media studies,university
+id Tech,"['Id_Tech', 'id_Tech', 'id_tech', 'Id_tech']",['television show'],['Id_Tech'],id tech,television show
+hepatology,"['hepatology', 'Hepatology']",['organisation'],['Hepatology'],hepatology,organisation
+book reviews,"['Book_reviews', 'book_reviews', 'book_Reviews', 'Book_Reviews']",['music genre'],['Book_reviews'],book reviews,music genre
+ornithology,"['ornithology', 'Ornithology']","['organisation', 'music genre']",['Ornithology'],ornithology,organisation
+ornithology,"['ornithology', 'Ornithology']","['organisation', 'music genre']",['Ornithology'],ornithology,music genre
+immunology,"['immunology', 'Immunology']","['medical specialty', 'organisation', 'music genre']",['Immunology'],immunology,medical specialty
+immunology,"['immunology', 'Immunology']","['medical specialty', 'organisation', 'music genre']",['Immunology'],immunology,organisation
+immunology,"['immunology', 'Immunology']","['medical specialty', 'organisation', 'music genre']",['Immunology'],immunology,music genre
+environmental engineering,"['environmental_engineering', 'Environmental_Engineering', 'environmental_Engineering', 'Environmental_engineering']","['organisation', 'person function', 'university']","['Environmental_Engineering', 'Environmental_engineering']",environmental engineering,organisation
+environmental engineering,"['environmental_engineering', 'Environmental_Engineering', 'environmental_Engineering', 'Environmental_engineering']","['organisation', 'person function', 'university']","['Environmental_Engineering', 'Environmental_engineering']",environmental engineering,person function
+environmental engineering,"['environmental_engineering', 'Environmental_Engineering', 'environmental_Engineering', 'Environmental_engineering']","['organisation', 'person function', 'university']","['Environmental_Engineering', 'Environmental_engineering']",environmental engineering,university
+philosophy of mathematics,"['philosophy_of_Mathematics', 'philosophy_Of_mathematics', 'philosophy_of_mathematics', 'Philosophy_of_Mathematics', 'Philosophy_Of_mathematics', 'philosophy_Of_Mathematics', 'Philosophy_of_mathematics', 'Philosophy_Of_Mathematics']",['organisation'],['Philosophy_of_mathematics'],philosophy of mathematics,organisation
+natural gas,"['Natural_Gas', 'Natural_gas', 'natural_gas', 'natural_Gas']","['person function', 'person function']","['Natural_gas', 'Natural_Gas']",natural gas,person function
+natural gas,"['Natural_Gas', 'Natural_gas', 'natural_gas', 'natural_Gas']","['person function', 'person function']","['Natural_gas', 'Natural_Gas']",natural gas,person function
+Unreal Engine,"['unreal_Engine', 'Unreal_engine', 'Unreal_Engine', 'unreal_engine']","['software', 'work', 'software']","['Unreal_engine', 'Unreal_Engine']",unreal engine,software
+Unreal Engine,"['unreal_Engine', 'Unreal_engine', 'Unreal_Engine', 'unreal_engine']","['software', 'work', 'software']","['Unreal_engine', 'Unreal_Engine']",unreal engine,work
+Unreal Engine,"['unreal_Engine', 'Unreal_engine', 'Unreal_Engine', 'unreal_engine']","['software', 'work', 'software']","['Unreal_engine', 'Unreal_Engine']",unreal engine,software
+track geometry,"['Track_geometry', 'track_geometry', 'track_Geometry', 'Track_Geometry']",['software'],['Track_geometry'],track geometry,software
+Hindi,"['Hindi', 'hindi']","['language', 'building']",['Hindi'],hindi,language
+Hindi,"['Hindi', 'hindi']","['language', 'building']",['Hindi'],hindi,building
+journalism,"['Journalism', 'journalism']",['music genre'],['Journalism'],journalism,music genre
+corporate law,"['Corporate_Law', 'corporate_law', 'Corporate_law', 'corporate_Law']",['book'],['Corporate_law'],corporate law,book
+comparative literature,"['comparative_Literature', 'Comparative_literature', 'Comparative_Literature', 'comparative_literature']","['university', 'university']","['Comparative_literature', 'Comparative_Literature']",comparative literature,university
+comparative literature,"['comparative_Literature', 'Comparative_literature', 'Comparative_Literature', 'comparative_literature']","['university', 'university']","['Comparative_literature', 'Comparative_Literature']",comparative literature,university
+infection control,"['Infection_Control', 'infection_control', 'Infection_control', 'infection_Control']",['sport'],['Infection_control'],infection control,sport
+chemistry,"['Chemistry', 'chemistry']","['organisation', 'university']",['Chemistry'],chemistry,organisation
+chemistry,"['Chemistry', 'chemistry']","['organisation', 'university']",['Chemistry'],chemistry,university
+religious studies,"['religious_Studies', 'Religious_Studies', 'Religious_studies', 'religious_studies']","['university', 'music genre']","['Religious_Studies', 'Religious_studies']",religious studies,university
+religious studies,"['religious_Studies', 'Religious_Studies', 'Religious_studies', 'religious_studies']","['university', 'music genre']","['Religious_Studies', 'Religious_studies']",religious studies,music genre
+automated optical inspection,"['Automated_optical_Inspection', 'Automated_optical_inspection', 'automated_Optical_Inspection', 'Automated_Optical_Inspection', 'Automated_Optical_inspection', 'automated_optical_Inspection', 'automated_Optical_inspection', 'automated_optical_inspection']",['company'],['Automated_optical_inspection'],automated optical inspection,company
+modern portfolio theory,"['Modern_Portfolio_Theory', 'modern_Portfolio_theory', 'modern_portfolio_theory', 'Modern_Portfolio_theory', 'Modern_portfolio_Theory', 'modern_portfolio_Theory', 'modern_Portfolio_Theory', 'Modern_portfolio_theory']",['software'],['Modern_portfolio_theory'],modern portfolio theory,software
+celestial navigation,"['celestial_navigation', 'Celestial_Navigation', 'Celestial_navigation', 'celestial_Navigation']",['person'],['Celestial_navigation'],celestial navigation,person
+business processes,"['Business_processes', 'business_processes', 'Business_Processes', 'business_Processes']",['music genre'],['Business_processes'],business processes,music genre
+radiochemistry,"['radiochemistry', 'Radiochemistry']",['person'],['Radiochemistry'],radiochemistry,person
+international law,"['international_law', 'International_law', 'international_Law', 'International_Law']","['university', 'person function']","['International_law', 'International_Law']",international law,university
+international law,"['international_law', 'International_law', 'international_Law', 'International_Law']","['university', 'person function']","['International_law', 'International_Law']",international law,person function
+programmable logic controller,"['programmable_logic_controller', 'Programmable_Logic_controller', 'Programmable_logic_controller', 'Programmable_Logic_Controller', 'programmable_logic_Controller', 'Programmable_logic_Controller', 'programmable_Logic_controller', 'programmable_Logic_Controller']",['information appliance'],['Programmable_logic_controller'],programmable logic controller,information appliance
+neuroanatomy,"['Neuroanatomy', 'neuroanatomy']",['book'],['Neuroanatomy'],neuroanatomy,book
+Moodle,"['Moodle', 'moodle']","['software', 'work']",['Moodle'],moodle,software
+Moodle,"['Moodle', 'moodle']","['software', 'work']",['Moodle'],moodle,work
+epigraphy,"['epigraphy', 'Epigraphy']","['book', 'person function']",['Epigraphy'],epigraphy,book
+epigraphy,"['epigraphy', 'Epigraphy']","['book', 'person function']",['Epigraphy'],epigraphy,person function
+Octopus Deploy,"['Octopus_Deploy', 'Octopus_deploy', 'octopus_deploy', 'octopus_Deploy']",['military conflict'],['Octopus_Deploy'],octopus deploy,military conflict
+Ruby,"['ruby', 'Ruby']","['chemical substance', 'mineral', 'musical work', 'programming language']",['Ruby'],ruby,chemical substance
+Ruby,"['ruby', 'Ruby']","['chemical substance', 'mineral', 'musical work', 'programming language']",['Ruby'],ruby,mineral
+Ruby,"['ruby', 'Ruby']","['chemical substance', 'mineral', 'musical work', 'programming language']",['Ruby'],ruby,musical work
+Ruby,"['ruby', 'Ruby']","['chemical substance', 'mineral', 'musical work', 'programming language']",['Ruby'],ruby,programming language
+solid-state chemistry,"['Solid-state_Chemistry', 'solid-state_chemistry', 'solid-state_Chemistry', 'Solid-state_chemistry']",['book'],['Solid-state_chemistry'],solid-state chemistry,book
+Groovy,"['groovy', 'Groovy']",['road junction'],['Groovy'],groovy,road junction
+solar energy,"['solar_energy', 'Solar_energy', 'solar_Energy', 'Solar_Energy']","['lighthouse', 'person function', 'person function']","['Solar_energy', 'Solar_Energy']",solar energy,lighthouse
+solar energy,"['solar_energy', 'Solar_energy', 'solar_Energy', 'Solar_Energy']","['lighthouse', 'person function', 'person function']","['Solar_energy', 'Solar_Energy']",solar energy,person function
+solar energy,"['solar_energy', 'Solar_energy', 'solar_Energy', 'Solar_Energy']","['lighthouse', 'person function', 'person function']","['Solar_energy', 'Solar_Energy']",solar energy,person function
+social justice,"['Social_Justice', 'social_justice', 'social_Justice', 'Social_justice']",['music genre'],['Social_justice'],social justice,music genre
+pharmaceutical industry,"['pharmaceutical_Industry', 'Pharmaceutical_industry', 'Pharmaceutical_Industry', 'pharmaceutical_industry']",['person function'],['Pharmaceutical_industry'],pharmaceutical industry,person function
+anthropology,"['Anthropology', 'anthropology']","['book', 'person function']",['Anthropology'],anthropology,book
+anthropology,"['Anthropology', 'anthropology']","['book', 'person function']",['Anthropology'],anthropology,person function
+psychosociology,"['Psychosociology', 'psychosociology']",['book'],['Psychosociology'],psychosociology,book
+geometry,"['geometry', 'Geometry']","['organisation', 'person function']",['Geometry'],geometry,organisation
+geometry,"['geometry', 'Geometry']","['organisation', 'person function']",['Geometry'],geometry,person function
+control engineering,"['Control_engineering', 'control_Engineering', 'control_engineering', 'Control_Engineering']",['sport'],['Control_engineering'],control engineering,sport
+criminology,"['criminology', 'Criminology']","['book', 'university']",['Criminology'],criminology,book
+criminology,"['criminology', 'Criminology']","['book', 'university']",['Criminology'],criminology,university
+sexology,"['Sexology', 'sexology']","['book', 'person function']",['Sexology'],sexology,book
+sexology,"['Sexology', 'sexology']","['book', 'person function']",['Sexology'],sexology,person function
+mammalogy,"['mammalogy', 'Mammalogy']",['book'],['Mammalogy'],mammalogy,book
+respiratory medicine,"['Respiratory_Medicine', 'Respiratory_medicine', 'respiratory_Medicine', 'respiratory_medicine']","['periodical literature', 'work', 'academic journal', 'written work']",['Respiratory_Medicine'],respiratory medicine,periodical literature
+respiratory medicine,"['Respiratory_Medicine', 'Respiratory_medicine', 'respiratory_Medicine', 'respiratory_medicine']","['periodical literature', 'work', 'academic journal', 'written work']",['Respiratory_Medicine'],respiratory medicine,work
+respiratory medicine,"['Respiratory_Medicine', 'Respiratory_medicine', 'respiratory_Medicine', 'respiratory_medicine']","['periodical literature', 'work', 'academic journal', 'written work']",['Respiratory_Medicine'],respiratory medicine,academic journal
+respiratory medicine,"['Respiratory_Medicine', 'Respiratory_medicine', 'respiratory_Medicine', 'respiratory_medicine']","['periodical literature', 'work', 'academic journal', 'written work']",['Respiratory_Medicine'],respiratory medicine,written work
+occultism,"['Occultism', 'occultism']",['music genre'],['Occultism'],occultism,music genre
+electrochemistry,"['electrochemistry', 'Electrochemistry']","['organisation', 'person function']",['Electrochemistry'],electrochemistry,organisation
+electrochemistry,"['electrochemistry', 'Electrochemistry']","['organisation', 'person function']",['Electrochemistry'],electrochemistry,person function
+Apache Tomcat,"['apache_tomcat', 'apache_Tomcat', 'Apache_tomcat', 'Apache_Tomcat']","['software', 'work']",['Apache_Tomcat'],apache tomcat,software
+Apache Tomcat,"['apache_tomcat', 'apache_Tomcat', 'Apache_tomcat', 'Apache_Tomcat']","['software', 'work']",['Apache_Tomcat'],apache tomcat,work
+ethics,"['ethics', 'Ethics']","['organisation', 'music genre']",['Ethics'],ethics,organisation
+ethics,"['ethics', 'Ethics']","['organisation', 'music genre']",['Ethics'],ethics,music genre
+entomology,"['entomology', 'Entomology']","['book', 'person function']",['Entomology'],entomology,book
+entomology,"['entomology', 'Entomology']","['book', 'person function']",['Entomology'],entomology,person function
+food policy,"['food_Policy', 'Food_Policy', 'Food_policy', 'food_policy']",['place'],['Food_policy'],food policy,place
+microelectromechanical systems,"['microelectromechanical_systems', 'microelectromechanical_Systems', 'Microelectromechanical_Systems', 'Microelectromechanical_systems']",['company'],['Microelectromechanical_systems'],microelectromechanical systems,company
+radiology,"['Radiology', 'radiology']","['Food', 'person function']",['Radiology'],radiology,Food
+radiology,"['Radiology', 'radiology']","['Food', 'person function']",['Radiology'],radiology,person function
+power electronics,"['power_electronics', 'Power_Electronics', 'Power_electronics', 'power_Electronics']","['software', 'music genre']",['Power_electronics'],power electronics,software
+power electronics,"['power_electronics', 'Power_Electronics', 'Power_electronics', 'power_Electronics']","['software', 'music genre']",['Power_electronics'],power electronics,music genre
+Latin,"['Latin', 'latin']",['language'],['Latin'],latin,language
+judaism,"['judaism', 'Judaism']",['country'],['Judaism'],judaism,country
+cued speech,"['Cued_Speech', 'cued_Speech', 'Cued_speech', 'cued_speech']",['language'],['Cued_speech'],cued speech,language
+attention to detail,"['attention_To_Detail', 'attention_To_detail', 'Attention_to_Detail', 'Attention_To_Detail', 'Attention_to_detail', 'Attention_To_detail', 'attention_to_Detail', 'attention_to_detail']","['company', 'company', 'agent', 'organisation']","['Attention_To_Detail', 'Attention_to_Detail']",attention to detail,company
+attention to detail,"['attention_To_Detail', 'attention_To_detail', 'Attention_to_Detail', 'Attention_To_Detail', 'Attention_to_detail', 'Attention_To_detail', 'attention_to_Detail', 'attention_to_detail']","['company', 'company', 'agent', 'organisation']","['Attention_To_Detail', 'Attention_to_Detail']",attention to detail,company
+attention to detail,"['attention_To_Detail', 'attention_To_detail', 'Attention_to_Detail', 'Attention_To_Detail', 'Attention_to_detail', 'Attention_To_detail', 'attention_to_Detail', 'attention_to_detail']","['company', 'company', 'agent', 'organisation']","['Attention_To_Detail', 'Attention_to_Detail']",attention to detail,agent
+attention to detail,"['attention_To_Detail', 'attention_To_detail', 'Attention_to_Detail', 'Attention_To_Detail', 'Attention_to_detail', 'Attention_To_detail', 'attention_to_Detail', 'attention_to_detail']","['company', 'company', 'agent', 'organisation']","['Attention_To_Detail', 'Attention_to_Detail']",attention to detail,organisation
+developmental psychology,"['developmental_psychology', 'Developmental_Psychology', 'developmental_Psychology', 'Developmental_psychology']","['book', 'person function']",['Developmental_psychology'],developmental psychology,book
+developmental psychology,"['developmental_psychology', 'Developmental_Psychology', 'developmental_Psychology', 'Developmental_psychology']","['book', 'person function']",['Developmental_psychology'],developmental psychology,person function
+fire protection engineering,"['fire_Protection_engineering', 'fire_protection_engineering', 'Fire_protection_Engineering', 'Fire_Protection_engineering', 'Fire_protection_engineering', 'Fire_Protection_Engineering', 'fire_Protection_Engineering', 'fire_protection_Engineering']",['software'],['Fire_protection_engineering'],fire protection engineering,software
+Grovo,"['grovo', 'Grovo']","['work', 'website']",['Grovo'],grovo,work
+Grovo,"['grovo', 'Grovo']","['work', 'website']",['Grovo'],grovo,website
+optics,"['optics', 'Optics']","['organisation', 'person function']",['Optics'],optics,organisation
+optics,"['optics', 'Optics']","['organisation', 'person function']",['Optics'],optics,person function
+genetics,"['genetics', 'Genetics']","['book', 'person function']",['Genetics'],genetics,book
+genetics,"['genetics', 'Genetics']","['book', 'person function']",['Genetics'],genetics,person function
+computer programming,"['Computer_Programming', 'computer_Programming', 'Computer_programming', 'computer_programming']","['Election', 'music genre']",['Computer_programming'],computer programming,Election
+computer programming,"['Computer_Programming', 'computer_Programming', 'Computer_programming', 'computer_programming']","['Election', 'music genre']",['Computer_programming'],computer programming,music genre
+geomatics,"['geomatics', 'Geomatics']",['sport'],['Geomatics'],geomatics,sport
+neurophysiology,"['Neurophysiology', 'neurophysiology']",['organisation'],['Neurophysiology'],neurophysiology,organisation
+political science,"['Political_science', 'political_science', 'political_Science', 'Political_Science']","['sport', 'university', 'university']","['Political_science', 'Political_Science']",political science,sport
+political science,"['Political_science', 'political_science', 'political_Science', 'Political_Science']","['sport', 'university', 'university']","['Political_science', 'Political_Science']",political science,university
+political science,"['Political_science', 'political_science', 'political_Science', 'Political_Science']","['sport', 'university', 'university']","['Political_science', 'Political_Science']",political science,university
+computer science,"['Computer_Science', 'Computer_science', 'computer_science', 'computer_Science']","['university', 'programming language', 'university']","['Computer_science', 'Computer_Science']",computer science,university
+computer science,"['Computer_Science', 'Computer_science', 'computer_science', 'computer_Science']","['university', 'programming language', 'university']","['Computer_science', 'Computer_Science']",computer science,programming language
+computer science,"['Computer_Science', 'Computer_science', 'computer_science', 'computer_Science']","['university', 'programming language', 'university']","['Computer_science', 'Computer_Science']",computer science,university
+family therapy,"['Family_therapy', 'Family_Therapy', 'family_therapy', 'family_Therapy']","['organisation', 'person function']",['Family_therapy'],family therapy,organisation
+family therapy,"['Family_therapy', 'Family_Therapy', 'family_therapy', 'family_Therapy']","['organisation', 'person function']",['Family_therapy'],family therapy,person function
+election law,"['Election_Law', 'election_law', 'election_Law', 'Election_law']",['sport'],['Election_law'],election law,sport
+neurology,"['Neurology', 'neurology']","['medical specialty', 'organisation', 'person function']",['Neurology'],neurology,medical specialty
+neurology,"['Neurology', 'neurology']","['medical specialty', 'organisation', 'person function']",['Neurology'],neurology,organisation
+neurology,"['Neurology', 'neurology']","['medical specialty', 'organisation', 'person function']",['Neurology'],neurology,person function
+source criticism,"['Source_Criticism', 'source_criticism', 'source_Criticism', 'Source_criticism']",['Election'],['Source_criticism'],source criticism,Election
+snowboard,"['Snowboard', 'snowboard']",['organisation'],['Snowboard'],snowboard,organisation
+office administration,"['Office_administration', 'office_administration', 'office_Administration', 'Office_Administration']",['person function'],['Office_Administration'],office administration,person function
+stock market,"['Stock_Market', 'stock_market', 'stock_Market', 'Stock_market']",['anatomical structure'],['Stock_market'],stock market,anatomical structure
+horse riding,"['horse_riding', 'Horse_Riding', 'Horse_riding', 'horse_Riding']",['sport'],['Horse_Riding'],horse riding,sport
+constitutional law,"['Constitutional_law', 'Constitutional_Law', 'constitutional_law', 'constitutional_Law']","['organisation', 'person function']",['Constitutional_law'],constitutional law,organisation
+constitutional law,"['Constitutional_law', 'Constitutional_Law', 'constitutional_law', 'constitutional_Law']","['organisation', 'person function']",['Constitutional_law'],constitutional law,person function
+probability theory,"['Probability_theory', 'probability_theory', 'Probability_Theory', 'probability_Theory']",['organisation'],['Probability_theory'],probability theory,organisation
+conveyancing,"['conveyancing', 'Conveyancing']",['university'],['Conveyancing'],conveyancing,university
+energy transformation,"['energy_Transformation', 'energy_transformation', 'Energy_Transformation', 'Energy_transformation']",['Election'],['Energy_transformation'],energy transformation,Election
+parasitology,"['parasitology', 'Parasitology']",['book'],['Parasitology'],parasitology,book
+defibrillation,"['defibrillation', 'Defibrillation']",['drug'],['Defibrillation'],defibrillation,drug
+mobile device management,"['mobile_Device_Management', 'mobile_Device_management', 'Mobile_Device_Management', 'mobile_device_Management', 'mobile_device_management', 'Mobile_device_management', 'Mobile_Device_management', 'Mobile_device_Management']","['music genre', 'music genre']","['Mobile_device_management', 'Mobile_Device_Management']",mobile device management,music genre
+mobile device management,"['mobile_Device_Management', 'mobile_Device_management', 'Mobile_Device_Management', 'mobile_device_Management', 'mobile_device_management', 'Mobile_device_management', 'Mobile_Device_management', 'Mobile_device_Management']","['music genre', 'music genre']","['Mobile_device_management', 'Mobile_Device_Management']",mobile device management,music genre
+virology,"['virology', 'Virology']","['book', 'person function']",['Virology'],virology,book
+virology,"['virology', 'Virology']","['book', 'person function']",['Virology'],virology,person function
+golf,"['Golf', 'golf']","['activity', 'sport', 'soccer club']",['Golf'],golf,activity
+golf,"['Golf', 'golf']","['activity', 'sport', 'soccer club']",['Golf'],golf,sport
+golf,"['Golf', 'golf']","['activity', 'sport', 'soccer club']",['Golf'],golf,soccer club
+cytopathology,"['Cytopathology', 'cytopathology']",['organisation'],['Cytopathology'],cytopathology,organisation
+motion capture,"['motion_capture', 'Motion_Capture', 'motion_Capture', 'Motion_capture']","['person function', 'Election']","['Motion_Capture', 'Motion_capture']",motion capture,person function
+motion capture,"['motion_capture', 'Motion_Capture', 'motion_Capture', 'Motion_capture']","['person function', 'Election']","['Motion_Capture', 'Motion_capture']",motion capture,Election
+art history,"['art_history', 'Art_History', 'Art_history', 'art_History']","['music genre', 'book', 'person function']","['Art_History', 'Art_history']",art history,music genre
+art history,"['art_history', 'Art_History', 'Art_history', 'art_History']","['music genre', 'book', 'person function']","['Art_History', 'Art_history']",art history,book
+art history,"['art_history', 'Art_History', 'Art_history', 'art_History']","['music genre', 'book', 'person function']","['Art_History', 'Art_history']",art history,person function
+hydroelectricity,"['hydroelectricity', 'Hydroelectricity']",['river'],['Hydroelectricity'],hydroelectricity,river
+neuropsychiatry,"['neuropsychiatry', 'Neuropsychiatry']",['organisation'],['Neuropsychiatry'],neuropsychiatry,organisation
+prayer,"['prayer', 'Prayer']",['music genre'],['Prayer'],prayer,music genre
+climatology,"['Climatology', 'climatology']","['book', 'person function']",['Climatology'],climatology,book
+climatology,"['Climatology', 'climatology']","['book', 'person function']",['Climatology'],climatology,person function
+classical antiquity,"['Classical_Antiquity', 'Classical_antiquity', 'classical_antiquity', 'classical_Antiquity']",['music genre'],['Classical_antiquity'],classical antiquity,music genre
+TripleStore,"['Triplestore', 'triplestore']","['Biological database', 'music genre']",['Triplestore'],triplestore,Biological database
+TripleStore,"['Triplestore', 'triplestore']","['Biological database', 'music genre']",['Triplestore'],triplestore,music genre
+bathymetry,"['Bathymetry', 'bathymetry']",['book'],['Bathymetry'],bathymetry,book
+types of wood,"['types_Of_Wood', 'types_of_Wood', 'types_of_wood', 'Types_Of_wood', 'Types_of_wood', 'types_Of_wood', 'Types_Of_Wood', 'Types_of_Wood']","['work', 'musical work', 'album']",['Types_of_Wood'],types of wood,work
+types of wood,"['types_Of_Wood', 'types_of_Wood', 'types_of_wood', 'Types_Of_wood', 'Types_of_wood', 'types_Of_wood', 'Types_Of_Wood', 'Types_of_Wood']","['work', 'musical work', 'album']",['Types_of_Wood'],types of wood,musical work
+types of wood,"['types_Of_Wood', 'types_of_Wood', 'types_of_wood', 'Types_Of_wood', 'Types_of_wood', 'types_Of_wood', 'Types_Of_Wood', 'Types_of_Wood']","['work', 'musical work', 'album']",['Types_of_Wood'],types of wood,album
+tennis,"['Tennis', 'tennis']","['activity', 'sport']",['Tennis'],tennis,activity
+tennis,"['Tennis', 'tennis']","['activity', 'sport']",['Tennis'],tennis,sport
+Engrade,"['engrade', 'Engrade']","['company', 'work', 'website']",['Engrade'],engrade,company
+Engrade,"['engrade', 'Engrade']","['company', 'work', 'website']",['Engrade'],engrade,work
+Engrade,"['engrade', 'Engrade']","['company', 'work', 'website']",['Engrade'],engrade,website
+phytotherapy,"['Phytotherapy', 'phytotherapy']",['book'],['Phytotherapy'],phytotherapy,book
+marketing management,"['marketing_Management', 'marketing_management', 'Marketing_management', 'Marketing_Management']","['sport', 'person function']",['Marketing_management'],marketing management,sport
+marketing management,"['marketing_Management', 'marketing_management', 'Marketing_management', 'Marketing_Management']","['sport', 'person function']",['Marketing_management'],marketing management,person function
+child protection,"['child_protection', 'Child_Protection', 'Child_protection', 'child_Protection']",['person function'],['Child_protection'],child protection,person function
+toxicology,"['Toxicology', 'toxicology']","['organisation', 'person function']",['Toxicology'],toxicology,organisation
+toxicology,"['Toxicology', 'toxicology']","['organisation', 'person function']",['Toxicology'],toxicology,person function
+psychosomatics,"['psychosomatics', 'Psychosomatics']","['periodical literature', 'work', 'academic journal', 'written work']",['Psychosomatics'],psychosomatics,periodical literature
+psychosomatics,"['psychosomatics', 'Psychosomatics']","['periodical literature', 'work', 'academic journal', 'written work']",['Psychosomatics'],psychosomatics,work
+psychosomatics,"['psychosomatics', 'Psychosomatics']","['periodical literature', 'work', 'academic journal', 'written work']",['Psychosomatics'],psychosomatics,academic journal
+psychosomatics,"['psychosomatics', 'Psychosomatics']","['periodical literature', 'work', 'academic journal', 'written work']",['Psychosomatics'],psychosomatics,written work
+neuropharmacology,"['Neuropharmacology', 'neuropharmacology']",['book'],['Neuropharmacology'],neuropharmacology,book
+electricity,"['Electricity', 'electricity']",['music genre'],['Electricity'],electricity,music genre
+monasticism,"['Monasticism', 'monasticism']",['person function'],['Monasticism'],monasticism,person function
+fine arts,"['Fine_Arts', 'fine_arts', 'fine_Arts', 'Fine_arts']","['music genre', 'university']","['Fine_Arts', 'Fine_arts']",fine arts,music genre
+fine arts,"['Fine_Arts', 'fine_arts', 'fine_Arts', 'Fine_arts']","['music genre', 'university']","['Fine_Arts', 'Fine_arts']",fine arts,university
+pedagogy,"['pedagogy', 'Pedagogy']","['sport', 'person function']",['Pedagogy'],pedagogy,sport
+pedagogy,"['pedagogy', 'Pedagogy']","['sport', 'person function']",['Pedagogy'],pedagogy,person function
+quran,"['quran', 'Quran']","['book', 'music genre']",['Quran'],quran,book
+quran,"['quran', 'Quran']","['book', 'music genre']",['Quran'],quran,music genre
+computer forensics,"['computer_Forensics', 'Computer_Forensics', 'Computer_forensics', 'computer_forensics']","['organisation', 'music genre', 'music genre']","['Computer_Forensics', 'Computer_forensics']",computer forensics,organisation
+computer forensics,"['computer_Forensics', 'Computer_Forensics', 'Computer_forensics', 'computer_forensics']","['organisation', 'music genre', 'music genre']","['Computer_Forensics', 'Computer_forensics']",computer forensics,music genre
+computer forensics,"['computer_Forensics', 'Computer_Forensics', 'Computer_forensics', 'computer_forensics']","['organisation', 'music genre', 'music genre']","['Computer_Forensics', 'Computer_forensics']",computer forensics,music genre
+rheumatology,"['Rheumatology', 'rheumatology']","['medical specialty', 'person function']",['Rheumatology'],rheumatology,medical specialty
+rheumatology,"['Rheumatology', 'rheumatology']","['medical specialty', 'person function']",['Rheumatology'],rheumatology,person function
+cardiovascular system,"['cardiovascular_System', 'cardiovascular_system', 'Cardiovascular_system', 'Cardiovascular_System']",['anatomical structure'],['Cardiovascular_system'],cardiovascular system,anatomical structure
+astrology,"['astrology', 'Astrology']","['book', 'person function']",['Astrology'],astrology,book
+astrology,"['astrology', 'Astrology']","['book', 'person function']",['Astrology'],astrology,person function
+project management,"['Project_management', 'Project_Management', 'project_management', 'project_Management']","['sport', 'music genre', 'music genre']","['Project_management', 'Project_Management']",project management,sport
+project management,"['Project_management', 'Project_Management', 'project_management', 'project_Management']","['sport', 'music genre', 'music genre']","['Project_management', 'Project_Management']",project management,music genre
+project management,"['Project_management', 'Project_Management', 'project_management', 'project_Management']","['sport', 'music genre', 'music genre']","['Project_management', 'Project_Management']",project management,music genre
+natural language processing,"['natural_Language_Processing', 'natural_Language_processing', 'Natural_Language_processing', 'natural_language_processing', 'Natural_language_Processing', 'natural_language_Processing', 'Natural_Language_Processing', 'Natural_language_processing']",['music genre'],['Natural_language_processing'],natural language processing,music genre
+public finance,"['public_finance', 'Public_finance', 'public_Finance', 'Public_Finance']",['book'],['Public_finance'],public finance,book
+carpentry,"['carpentry', 'Carpentry']","['organisation', 'person function']",['Carpentry'],carpentry,organisation
+carpentry,"['carpentry', 'Carpentry']","['organisation', 'person function']",['Carpentry'],carpentry,person function
+metallurgy,"['metallurgy', 'Metallurgy']","['person function', 'protein']",['Metallurgy'],metallurgy,person function
+metallurgy,"['metallurgy', 'Metallurgy']","['person function', 'protein']",['Metallurgy'],metallurgy,protein
+geochemistry,"['geochemistry', 'Geochemistry']",['work'],['Geochemistry'],geochemistry,work
+Shiva,"['shiva', 'Shiva']","['agent', 'deity', 'musical artist']",['Shiva'],shiva,agent
+Shiva,"['shiva', 'Shiva']","['agent', 'deity', 'musical artist']",['Shiva'],shiva,deity
+Shiva,"['shiva', 'Shiva']","['agent', 'deity', 'musical artist']",['Shiva'],shiva,musical artist
+organic farming,"['organic_Farming', 'organic_farming', 'Organic_farming', 'Organic_Farming']",['person function'],['Organic_farming'],organic farming,person function
+nuclear medicine,"['Nuclear_medicine', 'nuclear_Medicine', 'nuclear_medicine', 'Nuclear_Medicine']","['Food', 'person function']",['Nuclear_medicine'],nuclear medicine,Food
+nuclear medicine,"['Nuclear_medicine', 'nuclear_Medicine', 'nuclear_medicine', 'Nuclear_Medicine']","['Food', 'person function']",['Nuclear_medicine'],nuclear medicine,person function
+hydrography,"['Hydrography', 'hydrography']","['organisation', 'person function']",['Hydrography'],hydrography,organisation
+hydrography,"['Hydrography', 'hydrography']","['organisation', 'person function']",['Hydrography'],hydrography,person function
+Limburgish,"['limburgish', 'Limburgish']",['language'],['Limburgish'],limburgish,language
+web analytics,"['web_Analytics', 'Web_analytics', 'web_analytics', 'Web_Analytics']","['company', 'music genre']",['Web_analytics'],web analytics,company
+web analytics,"['web_Analytics', 'Web_analytics', 'web_analytics', 'Web_Analytics']","['company', 'music genre']",['Web_analytics'],web analytics,music genre
+landscape design,"['landscape_Design', 'Landscape_Design', 'landscape_design', 'Landscape_design']",['person function'],['Landscape_design'],landscape design,person function
+Slovenian,"['Slovenian', 'slovenian']",['country'],['Slovenian'],slovenian,country
+public relations,"['public_Relations', 'Public_Relations', 'Public_relations', 'public_relations']","['company', 'person function', 'person function']","['Public_Relations', 'Public_relations']",public relations,company
+public relations,"['public_Relations', 'Public_Relations', 'Public_relations', 'public_relations']","['company', 'person function', 'person function']","['Public_Relations', 'Public_relations']",public relations,person function
+public relations,"['public_Relations', 'Public_Relations', 'Public_relations', 'public_relations']","['company', 'person function', 'person function']","['Public_Relations', 'Public_relations']",public relations,person function
+diving equipment,"['diving_equipment', 'diving_Equipment', 'Diving_Equipment', 'Diving_equipment']","['company', 'music genre']",['Diving_equipment'],diving equipment,company
+diving equipment,"['diving_equipment', 'diving_Equipment', 'Diving_Equipment', 'Diving_equipment']","['company', 'music genre']",['Diving_equipment'],diving equipment,music genre
+nanotechnology,"['Nanotechnology', 'nanotechnology']","['company', 'music genre']",['Nanotechnology'],nanotechnology,company
+nanotechnology,"['Nanotechnology', 'nanotechnology']","['company', 'music genre']",['Nanotechnology'],nanotechnology,music genre
+torah,"['torah', 'Torah']",['village'],['Torah'],torah,village
+first aid,"['First_aid', 'First_Aid', 'first_aid', 'first_Aid']",['company'],['First_aid'],first aid,company
+materials science,"['Materials_science', 'Materials_Science', 'materials_science', 'materials_Science']","['music genre', 'person function']","['Materials_Science', 'Materials_science']",materials science,music genre
+materials science,"['Materials_science', 'Materials_Science', 'materials_science', 'materials_Science']","['music genre', 'person function']","['Materials_Science', 'Materials_science']",materials science,person function
+kinanthropometry,"['kinanthropometry', 'Kinanthropometry']",['sport'],['Kinanthropometry'],kinanthropometry,sport
+electricity market,"['electricity_Market', 'Electricity_market', 'Electricity_Market', 'electricity_market']",['bank'],['Electricity_market'],electricity market,bank
+iridology,"['iridology', 'Iridology']",['topical concept'],['Iridology'],iridology,topical concept
+adult education,"['adult_education', 'Adult_education', 'Adult_Education', 'adult_Education']",['company'],['Adult_education'],adult education,company
+Microsoft Visio,"['microsoft_visio', 'microsoft_Visio', 'Microsoft_Visio', 'Microsoft_visio']",['software'],['Microsoft_Visio'],microsoft visio,software
+photoengraving,"['Photoengraving', 'photoengraving']",['Election'],['Photoengraving'],photoengraving,Election
+Chef,"['Chef', 'chef']","['person', 'person function']",['Chef'],chef,person
+Chef,"['Chef', 'chef']","['person', 'person function']",['Chef'],chef,person function
+meteorology,"['Meteorology', 'meteorology']",['person function'],['Meteorology'],meteorology,person function
+medical mycology,"['Medical_mycology', 'Medical_Mycology', 'medical_mycology', 'medical_Mycology']","['periodical literature', 'work', 'academic journal', 'written work']",['Medical_Mycology'],medical mycology,periodical literature
+medical mycology,"['Medical_mycology', 'Medical_Mycology', 'medical_mycology', 'medical_Mycology']","['periodical literature', 'work', 'academic journal', 'written work']",['Medical_Mycology'],medical mycology,work
+medical mycology,"['Medical_mycology', 'Medical_Mycology', 'medical_mycology', 'medical_Mycology']","['periodical literature', 'work', 'academic journal', 'written work']",['Medical_Mycology'],medical mycology,academic journal
+medical mycology,"['Medical_mycology', 'Medical_Mycology', 'medical_mycology', 'medical_Mycology']","['periodical literature', 'work', 'academic journal', 'written work']",['Medical_Mycology'],medical mycology,written work
+telecommunications engineering,"['Telecommunications_Engineering', 'telecommunications_Engineering', 'telecommunications_engineering', 'Telecommunications_engineering']","['sport', 'person function']",['Telecommunications_engineering'],telecommunications engineering,sport
+telecommunications engineering,"['Telecommunications_Engineering', 'telecommunications_Engineering', 'telecommunications_engineering', 'Telecommunications_engineering']","['sport', 'person function']",['Telecommunications_engineering'],telecommunications engineering,person function
+pharmacognosy,"['Pharmacognosy', 'pharmacognosy']",['book'],['Pharmacognosy'],pharmacognosy,book
+Rapid application development,"['Rapid_Application_development', 'Rapid_Application_Development', 'rapid_Application_development', 'rapid_application_development', 'rapid_application_Development', 'Rapid_application_Development', 'rapid_Application_Development', 'Rapid_application_development']","['music genre', 'music genre']","['Rapid_application_development', 'Rapid_Application_Development']",rapid application development,music genre
+Rapid application development,"['Rapid_Application_development', 'Rapid_Application_Development', 'rapid_Application_development', 'rapid_application_development', 'rapid_application_Development', 'Rapid_application_Development', 'rapid_Application_Development', 'Rapid_application_development']","['music genre', 'music genre']","['Rapid_application_development', 'Rapid_Application_Development']",rapid application development,music genre
+typography,"['typography', 'Typography']","['person', 'person function']",['Typography'],typography,person
+typography,"['typography', 'Typography']","['person', 'person function']",['Typography'],typography,person function
+seismology,"['seismology', 'Seismology']","['book', 'person function']",['Seismology'],seismology,book
+seismology,"['seismology', 'Seismology']","['book', 'person function']",['Seismology'],seismology,person function
+human-computer interaction,"['human-computer_Interaction', 'human-computer_interaction', 'Human-computer_Interaction', 'Human-computer_interaction']",['person function'],['Human-computer_interaction'],human-computer interaction,person function
+graphic design,"['Graphic_design', 'graphic_design', 'graphic_Design', 'Graphic_Design']","['Election', 'person function', 'music genre']","['Graphic_design', 'Graphic_Design']",graphic design,Election
+graphic design,"['Graphic_design', 'graphic_design', 'graphic_Design', 'Graphic_Design']","['Election', 'person function', 'music genre']","['Graphic_design', 'Graphic_Design']",graphic design,person function
+graphic design,"['Graphic_design', 'graphic_design', 'graphic_Design', 'Graphic_Design']","['Election', 'person function', 'music genre']","['Graphic_design', 'Graphic_Design']",graphic design,music genre
+audio editing software,"['Audio_Editing_software', 'Audio_editing_software', 'audio_editing_software', 'audio_editing_Software', 'Audio_Editing_Software', 'Audio_editing_Software', 'audio_Editing_software', 'audio_Editing_Software']","['music genre', 'software', 'music genre']","['Audio_Editing_Software', 'Audio_editing_software']",audio editing software,music genre
+audio editing software,"['Audio_Editing_software', 'Audio_editing_software', 'audio_editing_software', 'audio_editing_Software', 'Audio_Editing_Software', 'Audio_editing_Software', 'audio_Editing_software', 'audio_Editing_Software']","['music genre', 'software', 'music genre']","['Audio_Editing_Software', 'Audio_editing_software']",audio editing software,software
+audio editing software,"['Audio_Editing_software', 'Audio_editing_software', 'audio_editing_software', 'audio_editing_Software', 'Audio_Editing_Software', 'Audio_editing_Software', 'audio_Editing_software', 'audio_Editing_Software']","['music genre', 'software', 'music genre']","['Audio_Editing_Software', 'Audio_editing_software']",audio editing software,music genre
+desktop publishing,"['Desktop_Publishing', 'desktop_Publishing', 'desktop_publishing', 'Desktop_publishing']","['organisation', 'music genre', 'music genre']","['Desktop_Publishing', 'Desktop_publishing']",desktop publishing,organisation
+desktop publishing,"['Desktop_Publishing', 'desktop_Publishing', 'desktop_publishing', 'Desktop_publishing']","['organisation', 'music genre', 'music genre']","['Desktop_Publishing', 'Desktop_publishing']",desktop publishing,music genre
+desktop publishing,"['Desktop_Publishing', 'desktop_Publishing', 'desktop_publishing', 'Desktop_publishing']","['organisation', 'music genre', 'music genre']","['Desktop_Publishing', 'Desktop_publishing']",desktop publishing,music genre
+graphite,"['graphite', 'Graphite']","['chemical substance', 'mineral']",['Graphite'],graphite,chemical substance
+graphite,"['graphite', 'Graphite']","['chemical substance', 'mineral']",['Graphite'],graphite,mineral
+olfaction,"['olfaction', 'Olfaction']",['species'],['Olfaction'],olfaction,species
+food engineering,"['food_Engineering', 'food_engineering', 'Food_engineering', 'Food_Engineering']",['person function'],['Food_engineering'],food engineering,person function
+Ancient Greek,"['ancient_Greek', 'Ancient_greek', 'Ancient_Greek', 'ancient_greek']",['language'],['Ancient_Greek'],ancient greek,language
+helminthology,"['Helminthology', 'helminthology']",['book'],['Helminthology'],helminthology,book
+animal training,"['Animal_Training', 'animal_training', 'animal_Training', 'Animal_training']",['person function'],['Animal_training'],animal training,person function
+orthodontics,"['orthodontics', 'Orthodontics']",['Food'],['Orthodontics'],orthodontics,Food
+lip reading,"['lip_reading', 'Lip_reading', 'lip_Reading', 'Lip_Reading']",['topical concept'],['Lip_reading'],lip reading,topical concept
+reiki,"['Reiki', 'reiki']",['person function'],['Reiki'],reiki,person function
+postediting,"['Postediting', 'postediting']",['Election'],['Postediting'],postediting,Election
+surface-mount technology,"['surface-mount_technology', 'Surface-mount_Technology', 'surface-mount_Technology', 'Surface-mount_technology']",['software'],['Surface-mount_technology'],surface-mount technology,software
+telemarketing,"['Telemarketing', 'telemarketing']",['software'],['Telemarketing'],telemarketing,software
+computational fluid dynamics,"['Computational_fluid_Dynamics', 'computational_fluid_Dynamics', 'computational_Fluid_Dynamics', 'computational_fluid_dynamics', 'computational_Fluid_dynamics', 'Computational_Fluid_Dynamics', 'Computational_Fluid_dynamics', 'Computational_fluid_dynamics']","['organisation', 'music genre', 'music genre']","['Computational_Fluid_Dynamics', 'Computational_fluid_dynamics']",computational fluid dynamics,organisation
+computational fluid dynamics,"['Computational_fluid_Dynamics', 'computational_fluid_Dynamics', 'computational_Fluid_Dynamics', 'computational_fluid_dynamics', 'computational_Fluid_dynamics', 'Computational_Fluid_Dynamics', 'Computational_Fluid_dynamics', 'Computational_fluid_dynamics']","['organisation', 'music genre', 'music genre']","['Computational_Fluid_Dynamics', 'Computational_fluid_dynamics']",computational fluid dynamics,music genre
+computational fluid dynamics,"['Computational_fluid_Dynamics', 'computational_fluid_Dynamics', 'computational_Fluid_Dynamics', 'computational_fluid_dynamics', 'computational_Fluid_dynamics', 'Computational_Fluid_Dynamics', 'Computational_Fluid_dynamics', 'Computational_fluid_dynamics']","['organisation', 'music genre', 'music genre']","['Computational_Fluid_Dynamics', 'Computational_fluid_dynamics']",computational fluid dynamics,music genre
+cyber security,"['Cyber_Security', 'Cyber_security', 'cyber_Security', 'cyber_security']","['person function', 'person function']","['Cyber_Security', 'Cyber_security']",cyber security,person function
+cyber security,"['Cyber_Security', 'Cyber_security', 'cyber_Security', 'cyber_security']","['person function', 'person function']","['Cyber_Security', 'Cyber_security']",cyber security,person function
+energy market,"['Energy_Market', 'Energy_market', 'energy_market', 'energy_Market']",['building'],['Energy_market'],energy market,building
+JavaScript,"['Javascript', 'javascript']",['programming language'],['Javascript'],javascript,programming language
+victimology,"['victimology', 'Victimology']",['book'],['Victimology'],victimology,book
+topography,"['topography', 'Topography']","['book', 'music genre']",['Topography'],topography,book
+topography,"['topography', 'Topography']","['book', 'music genre']",['Topography'],topography,music genre
+building automation,"['Building_automation', 'Building_Automation', 'building_automation', 'building_Automation']",['place'],['Building_automation'],building automation,place
+venereology,"['venereology', 'Venereology']",['organisation'],['Venereology'],venereology,organisation
+shale gas,"['Shale_Gas', 'shale_Gas', 'shale_gas', 'Shale_gas']",['chemical compound'],['Shale_gas'],shale gas,chemical compound
+document management,"['document_Management', 'Document_Management', 'document_management', 'Document_management']","['music genre', 'music genre']","['Document_Management', 'Document_management']",document management,music genre
+document management,"['document_Management', 'Document_Management', 'document_management', 'Document_management']","['music genre', 'music genre']","['Document_Management', 'Document_management']",document management,music genre
+theatre pedagogy,"['theatre_Pedagogy', 'Theatre_Pedagogy', 'theatre_pedagogy', 'Theatre_pedagogy']",['sport'],['Theatre_pedagogy'],theatre pedagogy,sport
+Adobe Photoshop,"['Adobe_Photoshop', 'adobe_Photoshop', 'adobe_photoshop', 'Adobe_photoshop']","['person', 'software', 'work']",['Adobe_Photoshop'],adobe photoshop,person
+Adobe Photoshop,"['Adobe_Photoshop', 'adobe_Photoshop', 'adobe_photoshop', 'Adobe_photoshop']","['person', 'software', 'work']",['Adobe_Photoshop'],adobe photoshop,software
+Adobe Photoshop,"['Adobe_Photoshop', 'adobe_Photoshop', 'adobe_photoshop', 'Adobe_photoshop']","['person', 'software', 'work']",['Adobe_Photoshop'],adobe photoshop,work
+natural history,"['natural_History', 'Natural_History', 'Natural_history', 'natural_history']","['music genre', 'organisation', 'person function']","['Natural_History', 'Natural_history']",natural history,music genre
+natural history,"['natural_History', 'Natural_History', 'Natural_history', 'natural_history']","['music genre', 'organisation', 'person function']","['Natural_History', 'Natural_history']",natural history,organisation
+natural history,"['natural_History', 'Natural_History', 'Natural_history', 'natural_history']","['music genre', 'organisation', 'person function']","['Natural_History', 'Natural_history']",natural history,person function
+hair,"['hair', 'Hair']","['anatomical structure', 'nerve']",['Hair'],hair,anatomical structure
+hair,"['hair', 'Hair']","['anatomical structure', 'nerve']",['Hair'],hair,nerve
+acupressure,"['acupressure', 'Acupressure']",['topical concept'],['Acupressure'],acupressure,topical concept
+biomedical engineering,"['Biomedical_Engineering', 'biomedical_Engineering', 'Biomedical_engineering', 'biomedical_engineering']","['university', 'software', 'person function']","['Biomedical_Engineering', 'Biomedical_engineering']",biomedical engineering,university
+biomedical engineering,"['Biomedical_Engineering', 'biomedical_Engineering', 'Biomedical_engineering', 'biomedical_engineering']","['university', 'software', 'person function']","['Biomedical_Engineering', 'Biomedical_engineering']",biomedical engineering,software
+biomedical engineering,"['Biomedical_Engineering', 'biomedical_Engineering', 'Biomedical_engineering', 'biomedical_engineering']","['university', 'software', 'person function']","['Biomedical_Engineering', 'Biomedical_engineering']",biomedical engineering,person function
+business law,"['business_Law', 'Business_Law', 'business_law', 'Business_law']",['person function'],['Business_Law'],business law,person function
+BlackBerry,"['blackberry', 'Blackberry']",['plant'],['Blackberry'],blackberry,plant
+motion graphics,"['motion_graphics', 'Motion_graphics', 'Motion_Graphics', 'motion_Graphics']","['work', 'music genre']",['Motion_graphics'],motion graphics,work
+motion graphics,"['motion_graphics', 'Motion_graphics', 'Motion_Graphics', 'motion_Graphics']","['work', 'music genre']",['Motion_graphics'],motion graphics,music genre
+cultural history,"['Cultural_history', 'cultural_history', 'cultural_History', 'Cultural_History']","['person function', 'music genre']","['Cultural_History', 'Cultural_history']",cultural history,person function
+cultural history,"['Cultural_history', 'cultural_history', 'cultural_History', 'Cultural_History']","['person function', 'music genre']","['Cultural_History', 'Cultural_history']",cultural history,music genre
+beeswax,"['Beeswax', 'beeswax']",['award'],['Beeswax'],beeswax,award
+civil engineering,"['Civil_engineering', 'civil_engineering', 'civil_Engineering', 'Civil_Engineering']","['university', 'sport', 'person function']","['Civil_engineering', 'Civil_Engineering']",civil engineering,university
+civil engineering,"['Civil_engineering', 'civil_engineering', 'civil_Engineering', 'Civil_Engineering']","['university', 'sport', 'person function']","['Civil_engineering', 'Civil_Engineering']",civil engineering,sport
+civil engineering,"['Civil_engineering', 'civil_engineering', 'civil_Engineering', 'Civil_Engineering']","['university', 'sport', 'person function']","['Civil_engineering', 'Civil_Engineering']",civil engineering,person function
+acoustics,"['acoustics', 'Acoustics']",['work'],['Acoustics'],acoustics,work
+electric current,"['Electric_current', 'electric_Current', 'Electric_Current', 'electric_current']",['album'],['Electric_current'],electric current,album
+Arabic,"['arabic', 'Arabic']",['language'],['Arabic'],arabic,language
+reflexology,"['reflexology', 'Reflexology']",['drug'],['Reflexology'],reflexology,drug
+urology,"['urology', 'Urology']","['organisation', 'person function']",['Urology'],urology,organisation
+urology,"['urology', 'Urology']","['organisation', 'person function']",['Urology'],urology,person function
+genealogy,"['genealogy', 'Genealogy']","['book', 'music genre']",['Genealogy'],genealogy,book
+genealogy,"['genealogy', 'Genealogy']","['book', 'music genre']",['Genealogy'],genealogy,music genre
+communication studies,"['Communication_studies', 'Communication_Studies', 'communication_Studies', 'communication_studies']","['sport', 'university', 'university']","['Communication_studies', 'Communication_Studies']",communication studies,sport
+communication studies,"['Communication_studies', 'Communication_Studies', 'communication_Studies', 'communication_studies']","['sport', 'university', 'university']","['Communication_studies', 'Communication_Studies']",communication studies,university
+communication studies,"['Communication_studies', 'Communication_Studies', 'communication_Studies', 'communication_studies']","['sport', 'university', 'university']","['Communication_studies', 'Communication_Studies']",communication studies,university
+architectural theory,"['architectural_theory', 'Architectural_Theory', 'architectural_Theory', 'Architectural_theory']","['Band', 'person function']",['Architectural_theory'],architectural theory,Band
+architectural theory,"['architectural_theory', 'Architectural_Theory', 'architectural_Theory', 'Architectural_theory']","['Band', 'person function']",['Architectural_theory'],architectural theory,person function
+rhetoric,"['rhetoric', 'Rhetoric']","['person', 'person function']",['Rhetoric'],rhetoric,person
+rhetoric,"['rhetoric', 'Rhetoric']","['person', 'person function']",['Rhetoric'],rhetoric,person function
+Cisco,"['cisco', 'Cisco']","['company', 'agent', 'organisation']",['Cisco'],cisco,company
+Cisco,"['cisco', 'Cisco']","['company', 'agent', 'organisation']",['Cisco'],cisco,agent
+Cisco,"['cisco', 'Cisco']","['company', 'agent', 'organisation']",['Cisco'],cisco,organisation
+economics,"['economics', 'Economics']","['work', 'university']",['Economics'],economics,work
+economics,"['economics', 'Economics']","['work', 'university']",['Economics'],economics,university
+dimension stone,"['Dimension_Stone', 'Dimension_stone', 'dimension_stone', 'dimension_Stone']",['building'],['Dimension_stone'],dimension stone,building
+metaphysics,"['metaphysics', 'Metaphysics']","['organisation', 'music genre']",['Metaphysics'],metaphysics,organisation
+metaphysics,"['metaphysics', 'Metaphysics']","['organisation', 'music genre']",['Metaphysics'],metaphysics,music genre
+metalworking,"['Metalworking', 'metalworking']",['Election'],['Metalworking'],metalworking,Election
+palliative care,"['palliative_care', 'palliative_Care', 'Palliative_Care', 'Palliative_care']",['programming language'],['Palliative_care'],palliative care,programming language
+financial management,"['Financial_Management', 'financial_Management', 'Financial_management', 'financial_management']",['person function'],['Financial_management'],financial management,person function
+molecular biology,"['molecular_biology', 'molecular_Biology', 'Molecular_Biology', 'Molecular_biology']",['music genre'],['Molecular_biology'],molecular biology,music genre
+plant propagation,"['plant_Propagation', 'plant_propagation', 'Plant_propagation', 'Plant_Propagation']",['Election'],['Plant_propagation'],plant propagation,Election
+statistics,"['statistics', 'Statistics']","['book', 'music genre']",['Statistics'],statistics,book
+statistics,"['statistics', 'Statistics']","['book', 'music genre']",['Statistics'],statistics,music genre
+dermatology,"['dermatology', 'Dermatology']","['medical specialty', 'organisation', 'person function']",['Dermatology'],dermatology,medical specialty
+dermatology,"['dermatology', 'Dermatology']","['medical specialty', 'organisation', 'person function']",['Dermatology'],dermatology,organisation
+dermatology,"['dermatology', 'Dermatology']","['medical specialty', 'organisation', 'person function']",['Dermatology'],dermatology,person function
+biophysics,"['biophysics', 'Biophysics']","['work', 'person function']",['Biophysics'],biophysics,work
+biophysics,"['biophysics', 'Biophysics']","['work', 'person function']",['Biophysics'],biophysics,person function
+photography,"['Photography', 'photography']","['work', 'music genre']",['Photography'],photography,work
+photography,"['Photography', 'photography']","['work', 'music genre']",['Photography'],photography,music genre
+sedimentology,"['sedimentology', 'Sedimentology']",['person function'],['Sedimentology'],sedimentology,person function
+Taleo,"['Taleo', 'taleo']","['company', 'agent', 'organisation']",['Taleo'],taleo,company
+Taleo,"['Taleo', 'taleo']","['company', 'agent', 'organisation']",['Taleo'],taleo,agent
+Taleo,"['Taleo', 'taleo']","['company', 'agent', 'organisation']",['Taleo'],taleo,organisation
+cinematography,"['Cinematography', 'cinematography']","['work', 'person function']",['Cinematography'],cinematography,work
+cinematography,"['Cinematography', 'cinematography']","['work', 'person function']",['Cinematography'],cinematography,person function
+cosmetics,"['Cosmetics', 'cosmetics']",['chemical compound'],['Cosmetics'],cosmetics,chemical compound
+customer insight,"['customer_Insight', 'Customer_Insight', 'Customer_insight', 'customer_insight']",['road junction'],['Customer_insight'],customer insight,road junction
+business intelligence,"['Business_intelligence', 'business_Intelligence', 'Business_Intelligence', 'business_intelligence']","['music genre', 'music genre']","['Business_intelligence', 'Business_Intelligence']",business intelligence,music genre
+business intelligence,"['Business_intelligence', 'business_Intelligence', 'Business_Intelligence', 'business_intelligence']","['music genre', 'music genre']","['Business_intelligence', 'Business_Intelligence']",business intelligence,music genre
+astronomy,"['astronomy', 'Astronomy']","['book', 'music genre']",['Astronomy'],astronomy,book
+astronomy,"['astronomy', 'Astronomy']","['book', 'music genre']",['Astronomy'],astronomy,music genre
+radioactive contamination,"['radioactive_Contamination', 'radioactive_contamination', 'Radioactive_contamination', 'Radioactive_Contamination']",['disease'],['Radioactive_contamination'],radioactive contamination,disease
+geographic information systems,"['Geographic_Information_Systems', 'geographic_information_Systems', 'geographic_Information_systems', 'geographic_Information_Systems', 'geographic_information_systems', 'Geographic_information_Systems', 'Geographic_information_systems', 'Geographic_Information_systems']",['music genre'],['Geographic_information_systems'],geographic information systems,music genre
+optical instruments,"['optical_instruments', 'optical_Instruments', 'Optical_Instruments', 'Optical_instruments']",['person function'],['Optical_instruments'],optical instruments,person function
+real-time computing,"['real-time_Computing', 'Real-time_Computing', 'real-time_computing', 'Real-time_computing']",['music genre'],['Real-time_computing'],real-time computing,music genre
+psychoacoustics,"['Psychoacoustics', 'psychoacoustics']",['book'],['Psychoacoustics'],psychoacoustics,book
+clinical neurophysiology,"['Clinical_Neurophysiology', 'clinical_Neurophysiology', 'clinical_neurophysiology', 'Clinical_neurophysiology']",['Food'],['Clinical_neurophysiology'],clinical neurophysiology,Food
+logistics,"['logistics', 'Logistics']",['music genre'],['Logistics'],logistics,music genre
+wildlife,"['Wildlife', 'wildlife']",['music genre'],['Wildlife'],wildlife,music genre
+Occitan,"['Occitan', 'occitan']",['language'],['Occitan'],occitan,language
+plastic surgery,"['Plastic_surgery', 'plastic_Surgery', 'plastic_surgery', 'Plastic_Surgery']","['person function', 'anatomical structure', 'person function']","['Plastic_surgery', 'Plastic_Surgery']",plastic surgery,person function
+plastic surgery,"['Plastic_surgery', 'plastic_Surgery', 'plastic_surgery', 'Plastic_Surgery']","['person function', 'anatomical structure', 'person function']","['Plastic_surgery', 'Plastic_Surgery']",plastic surgery,anatomical structure
+plastic surgery,"['Plastic_surgery', 'plastic_Surgery', 'plastic_surgery', 'Plastic_Surgery']","['person function', 'anatomical structure', 'person function']","['Plastic_surgery', 'Plastic_Surgery']",plastic surgery,person function
+R,"['r', 'R']",['radio station'],['R'],r,radio station
+Edmodo,"['edmodo', 'Edmodo']","['company', 'agent', 'organisation']",['Edmodo'],edmodo,company
+Edmodo,"['edmodo', 'Edmodo']","['company', 'agent', 'organisation']",['Edmodo'],edmodo,agent
+Edmodo,"['edmodo', 'Edmodo']","['company', 'agent', 'organisation']",['Edmodo'],edmodo,organisation
+literature,"['literature', 'Literature']",['music genre'],['Literature'],literature,music genre
+biology,"['Biology', 'biology']","['work', 'university']",['Biology'],biology,work
+biology,"['Biology', 'biology']","['work', 'university']",['Biology'],biology,university
+paleontology,"['paleontology', 'Paleontology']","['book', 'person function']",['Paleontology'],paleontology,book
+paleontology,"['paleontology', 'Paleontology']","['book', 'person function']",['Paleontology'],paleontology,person function
+neuropathology,"['Neuropathology', 'neuropathology']",['book'],['Neuropathology'],neuropathology,book
+speech recognition,"['speech_recognition', 'Speech_recognition', 'Speech_Recognition', 'speech_Recognition']",['music genre'],['Speech_recognition'],speech recognition,music genre
+architectural design,"['architectural_Design', 'Architectural_Design', 'architectural_design', 'Architectural_design']","['academic journal', 'university']",['Architectural_Design'],architectural design,academic journal
+architectural design,"['architectural_Design', 'Architectural_Design', 'architectural_design', 'Architectural_design']","['academic journal', 'university']",['Architectural_Design'],architectural design,university
+Hadoop,"['hadoop', 'Hadoop']",['music genre'],['Hadoop'],hadoop,music genre
+geology,"['Geology', 'geology']","['work', 'person function']",['Geology'],geology,work
+geology,"['Geology', 'geology']","['work', 'person function']",['Geology'],geology,person function
+cognitive psychology,"['cognitive_psychology', 'Cognitive_Psychology', 'cognitive_Psychology', 'Cognitive_psychology']",['book'],['Cognitive_psychology'],cognitive psychology,book
+medical genetics,"['Medical_genetics', 'medical_genetics', 'Medical_Genetics', 'medical_Genetics']","['organisation', 'person function', 'person function']","['Medical_genetics', 'Medical_Genetics']",medical genetics,organisation
+medical genetics,"['Medical_genetics', 'medical_genetics', 'Medical_Genetics', 'medical_Genetics']","['organisation', 'person function', 'person function']","['Medical_genetics', 'Medical_Genetics']",medical genetics,person function
+medical genetics,"['Medical_genetics', 'medical_genetics', 'Medical_Genetics', 'medical_Genetics']","['organisation', 'person function', 'person function']","['Medical_genetics', 'Medical_Genetics']",medical genetics,person function
+musical instruments,"['Musical_instruments', 'musical_instruments', 'Musical_Instruments', 'musical_Instruments']",['person function'],['Musical_instruments'],musical instruments,person function
+balneotherapy,"['Balneotherapy', 'balneotherapy']",['drug'],['Balneotherapy'],balneotherapy,drug
+computer engineering,"['computer_Engineering', 'Computer_engineering', 'Computer_Engineering', 'computer_engineering']","['sport', 'person function']",['Computer_engineering'],computer engineering,sport
+computer engineering,"['computer_Engineering', 'Computer_engineering', 'Computer_Engineering', 'computer_engineering']","['sport', 'person function']",['Computer_engineering'],computer engineering,person function
+orthotics,"['orthotics', 'Orthotics']",['Food'],['Orthotics'],orthotics,Food
+military logistics,"['Military_logistics', 'military_logistics', 'Military_Logistics', 'military_Logistics']",['sport'],['Military_logistics'],military logistics,sport
+insurance law,"['insurance_law', 'insurance_Law', 'Insurance_law', 'Insurance_Law']",['company'],['Insurance_law'],insurance law,company
+project commissioning,"['Project_Commissioning', 'Project_commissioning', 'project_Commissioning', 'project_commissioning']",['Election'],['Project_commissioning'],project commissioning,Election
+gastroenterology,"['Gastroenterology', 'gastroenterology']","['medical specialty', 'organisation', 'person function']",['Gastroenterology'],gastroenterology,medical specialty
+gastroenterology,"['Gastroenterology', 'gastroenterology']","['medical specialty', 'organisation', 'person function']",['Gastroenterology'],gastroenterology,organisation
+gastroenterology,"['Gastroenterology', 'gastroenterology']","['medical specialty', 'organisation', 'person function']",['Gastroenterology'],gastroenterology,person function
+Haskell,"['haskell', 'Haskell']","['language', 'programming language']",['Haskell'],haskell,language
+Haskell,"['haskell', 'Haskell']","['language', 'programming language']",['Haskell'],haskell,programming language
+biomarkers,"['Biomarkers', 'biomarkers']",['music genre'],['Biomarkers'],biomarkers,music genre
+psychoanalysis,"['Psychoanalysis', 'psychoanalysis']",['person function'],['Psychoanalysis'],psychoanalysis,person function
+theology,"['theology', 'Theology']","['book', 'person function']",['Theology'],theology,book
+theology,"['theology', 'Theology']","['book', 'person function']",['Theology'],theology,person function
+ecology,"['Ecology', 'ecology']","['work', 'university']",['Ecology'],ecology,work
+ecology,"['Ecology', 'ecology']","['work', 'university']",['Ecology'],ecology,university
+psychopharmacology,"['Psychopharmacology', 'psychopharmacology']","['book', 'person function']",['Psychopharmacology'],psychopharmacology,book
+psychopharmacology,"['Psychopharmacology', 'psychopharmacology']","['book', 'person function']",['Psychopharmacology'],psychopharmacology,person function
+dressmaking,"['dressmaking', 'Dressmaking']",['person function'],['Dressmaking'],dressmaking,person function
+database,"['database', 'Database']","['book', 'music genre']",['Database'],database,book
+database,"['database', 'Database']","['book', 'music genre']",['Database'],database,music genre
+communication,"['Communication', 'communication']","['Band', 'university']",['Communication'],communication,Band
+communication,"['Communication', 'communication']","['Band', 'university']",['Communication'],communication,university
+philosophy,"['philosophy', 'Philosophy']","['book', 'person function']",['Philosophy'],philosophy,book
+philosophy,"['philosophy', 'Philosophy']","['book', 'person function']",['Philosophy'],philosophy,person function
+primitive technology,"['Primitive_Technology', 'primitive_Technology', 'primitive_technology', 'Primitive_technology']","['person', 'animal', 'eukaryote', 'species', 'Youtuber']",['Primitive_Technology'],primitive technology,person
+primitive technology,"['Primitive_Technology', 'primitive_Technology', 'primitive_technology', 'Primitive_technology']","['person', 'animal', 'eukaryote', 'species', 'Youtuber']",['Primitive_Technology'],primitive technology,animal
+primitive technology,"['Primitive_Technology', 'primitive_Technology', 'primitive_technology', 'Primitive_technology']","['person', 'animal', 'eukaryote', 'species', 'Youtuber']",['Primitive_Technology'],primitive technology,eukaryote
+primitive technology,"['Primitive_Technology', 'primitive_Technology', 'primitive_technology', 'Primitive_technology']","['person', 'animal', 'eukaryote', 'species', 'Youtuber']",['Primitive_Technology'],primitive technology,species
+primitive technology,"['Primitive_Technology', 'primitive_Technology', 'primitive_technology', 'Primitive_technology']","['person', 'animal', 'eukaryote', 'species', 'Youtuber']",['Primitive_Technology'],primitive technology,Youtuber
+medical terminology,"['Medical_terminology', 'Medical_Terminology', 'medical_Terminology', 'medical_terminology']",['language'],['Medical_terminology'],medical terminology,language
+restorative justice,"['restorative_justice', 'Restorative_justice', 'restorative_Justice', 'Restorative_Justice']",['programming language'],['Restorative_justice'],restorative justice,programming language
+audiometry,"['Audiometry', 'audiometry']",['organisation'],['Audiometry'],audiometry,organisation
+Islam,"['Islam', 'islam']",['ethnic group'],['Islam'],islam,ethnic group
+law enforcement,"['law_enforcement', 'law_Enforcement', 'Law_enforcement', 'Law_Enforcement']",['person function'],['Law_enforcement'],law enforcement,person function
+Synfig,"['Synfig', 'synfig']","['software', 'work']",['Synfig'],synfig,software
+Synfig,"['Synfig', 'synfig']","['software', 'work']",['Synfig'],synfig,work
+hazard analysis and critical control points,"['Hazard_analysis_and_critical_Control_points', 'hazard_analysis_And_critical_Control_Points', 'Hazard_analysis_and_Critical_Control_Points', 'hazard_Analysis_And_Critical_Control_Points', 'Hazard_Analysis_and_Critical_Control_Points', 'Hazard_Analysis_And_critical_control_points', 'Hazard_analysis_And_Critical_Control_points', 'Hazard_analysis_and_critical_control_Points', 'hazard_analysis_And_Critical_control_Points', 'hazard_analysis_and_critical_Control_points', 'hazard_analysis_And_Critical_control_points', 'Hazard_analysis_And_critical_control_points', 'hazard_Analysis_And_Critical_Control_points', 'Hazard_analysis_And_Critical_Control_Points', 'Hazard_analysis_and_Critical_Control_points', 'Hazard_Analysis_and_Critical_control_points', 'hazard_Analysis_and_Critical_Control_Points', 'hazard_Analysis_and_critical_Control_Points', 'Hazard_Analysis_And_critical_control_Points', 'Hazard_Analysis_and_Critical_Control_points', 'hazard_Analysis_And_critical_control_points', 'hazard_Analysis_And_critical_Control_Points', 'hazard_analysis_and_critical_control_points', 'hazard_Analysis_and_critical_control_Points', 'hazard_analysis_and_Critical_control_Points', 'hazard_analysis_And_Critical_Control_Points', 'hazard_Analysis_And_critical_control_Points', 'Hazard_Analysis_And_Critical_control_Points', 'Hazard_analysis_And_Critical_control_points', 'hazard_analysis_and_Critical_Control_Points', 'Hazard_Analysis_and_critical_Control_Points', 'Hazard_Analysis_and_critical_control_points', 'Hazard_Analysis_And_Critical_control_points', 'hazard_Analysis_and_critical_control_points', 'hazard_Analysis_And_Critical_control_Points', 'Hazard_Analysis_and_Critical_control_Points', 'Hazard_Analysis_And_Critical_Control_points', 'hazard_analysis_and_Critical_Control_points', 'Hazard_analysis_And_critical_Control_points', 'Hazard_Analysis_and_critical_Control_points', 'hazard_Analysis_and_Critical_Control_points', 'hazard_Analysis_and_Critical_control_Points', 'Hazard_Analysis_and_critical_control_Points', 'Hazard_analysis_and_critical_control_points', 'Hazard_Analysis_And_Critical_Control_Points', 'hazard_analysis_and_critical_control_Points', 'hazard_analysis_And_critical_Control_points', 'hazard_Analysis_and_Critical_control_points', 'hazard_Analysis_and_critical_Control_points', 'hazard_Analysis_And_critical_Control_points', 'Hazard_analysis_and_Critical_control_Points', 'hazard_analysis_and_critical_Control_Points', 'hazard_analysis_and_Critical_control_points', 'Hazard_analysis_and_Critical_control_points', 'hazard_Analysis_And_Critical_control_points', 'Hazard_analysis_and_critical_Control_Points', 'hazard_analysis_And_critical_control_Points', 'Hazard_analysis_And_critical_control_Points', 'hazard_analysis_And_Critical_Control_points', 'Hazard_analysis_And_Critical_control_Points', 'Hazard_Analysis_And_critical_Control_points', 'hazard_analysis_And_critical_control_points', 'Hazard_Analysis_And_critical_Control_Points', 'Hazard_analysis_And_critical_Control_Points']",['programming language'],['Hazard_analysis_and_critical_control_points'],hazard analysis and critical control points,programming language
+Buddhism,"['Buddhism', 'buddhism']","['ethnic group', 'country']",['Buddhism'],buddhism,ethnic group
+Buddhism,"['Buddhism', 'buddhism']","['ethnic group', 'country']",['Buddhism'],buddhism,country
+Assertiveness,"['assertiveness', 'Assertiveness']",['organisation'],['Assertiveness'],assertiveness,organisation
+social pedagogy,"['social_Pedagogy', 'social_pedagogy', 'Social_pedagogy', 'Social_Pedagogy']",['sport'],['Social_pedagogy'],social pedagogy,sport
+general surgery,"['general_Surgery', 'General_surgery', 'general_surgery', 'General_Surgery']","['Food', 'person function', 'person function']","['General_surgery', 'General_Surgery']",general surgery,Food
+general surgery,"['general_Surgery', 'General_surgery', 'general_surgery', 'General_Surgery']","['Food', 'person function', 'person function']","['General_surgery', 'General_Surgery']",general surgery,person function
+general surgery,"['general_Surgery', 'General_surgery', 'general_surgery', 'General_Surgery']","['Food', 'person function', 'person function']","['General_surgery', 'General_Surgery']",general surgery,person function
+Schoology,"['schoology', 'Schoology']","['work', 'website']",['Schoology'],schoology,work
+Schoology,"['schoology', 'Schoology']","['work', 'website']",['Schoology'],schoology,website
+osteology,"['osteology', 'Osteology']",['book'],['Osteology'],osteology,book
+business process modelling,"['Business_process_modelling', 'business_process_Modelling', 'Business_Process_modelling', 'business_Process_modelling', 'business_Process_Modelling', 'Business_process_Modelling', 'Business_Process_Modelling', 'business_process_modelling']",['music genre'],['Business_process_modelling'],business process modelling,music genre
+Perl,"['perl', 'Perl']","['language', 'programming language']",['Perl'],perl,language
+Perl,"['perl', 'Perl']","['language', 'programming language']",['Perl'],perl,programming language
+tai chi,"['tai_chi', 'tai_Chi', 'Tai_Chi', 'Tai_chi']",['person'],['Tai_chi'],tai chi,person
+soil science,"['soil_science', 'Soil_Science', 'Soil_science', 'soil_Science']","['book', 'university']",['Soil_science'],soil science,book
+soil science,"['soil_science', 'Soil_Science', 'Soil_science', 'soil_Science']","['book', 'university']",['Soil_science'],soil science,university
+mathematics,"['mathematics', 'Mathematics']","['book', 'university']",['Mathematics'],mathematics,book
+mathematics,"['mathematics', 'Mathematics']","['book', 'university']",['Mathematics'],mathematics,university
+Cain and Abel,"['Cain_And_Abel', 'Cain_and_abel', 'Cain_and_Abel', 'cain_And_abel', 'Cain_And_abel', 'cain_And_Abel', 'cain_and_abel', 'cain_and_Abel']",['person'],['Cain_and_Abel'],cain and abel,person
+history of philosophy,"['History_of_philosophy', 'history_of_philosophy', 'History_of_Philosophy', 'history_of_Philosophy', 'History_Of_Philosophy', 'History_Of_philosophy', 'history_Of_philosophy', 'history_Of_Philosophy']","['album', 'person function']",['History_of_philosophy'],history of philosophy,album
+history of philosophy,"['History_of_philosophy', 'history_of_philosophy', 'History_of_Philosophy', 'history_of_Philosophy', 'History_Of_Philosophy', 'History_Of_philosophy', 'history_Of_philosophy', 'history_Of_Philosophy']","['album', 'person function']",['History_of_philosophy'],history of philosophy,person function
+systems theory,"['systems_Theory', 'Systems_theory', 'Systems_Theory', 'systems_theory']",['book'],['Systems_theory'],systems theory,book
+data warehouse,"['data_warehouse', 'Data_Warehouse', 'Data_warehouse', 'data_Warehouse']",['music genre'],['Data_Warehouse'],data warehouse,music genre
+Capture One,"['capture_One', 'capture_one', 'Capture_One', 'Capture_one']","['software', 'work']",['Capture_One'],capture one,software
+Capture One,"['capture_One', 'capture_one', 'Capture_One', 'Capture_one']","['software', 'work']",['Capture_One'],capture one,work
+sign language,"['sign_Language', 'sign_language', 'Sign_Language', 'Sign_language']",['language'],['Sign_language'],sign language,language
+information extraction,"['information_extraction', 'Information_extraction', 'Information_Extraction', 'information_Extraction']",['music genre'],['Information_Extraction'],information extraction,music genre
+Lisp,"['Lisp', 'lisp']",['disease'],['Lisp'],lisp,disease
+Oracle Data Integrator,"['Oracle_Data_Integrator', 'Oracle_data_Integrator', 'oracle_Data_Integrator', 'oracle_data_integrator', 'oracle_Data_integrator', 'Oracle_Data_integrator', 'oracle_data_Integrator', 'Oracle_data_integrator']",['drug'],['Oracle_Data_Integrator'],oracle data integrator,drug
+pollution prevention,"['Pollution_Prevention', 'pollution_Prevention', 'pollution_prevention', 'Pollution_prevention']",['company'],['Pollution_prevention'],pollution prevention,company
+crisis intervention,"['crisis_intervention', 'Crisis_intervention', 'Crisis_Intervention', 'crisis_Intervention']","['hospital', 'person function']",['Crisis_intervention'],crisis intervention,hospital
+crisis intervention,"['crisis_intervention', 'Crisis_intervention', 'Crisis_Intervention', 'crisis_Intervention']","['hospital', 'person function']",['Crisis_intervention'],crisis intervention,person function
+Earth science,"['Earth_Science', 'earth_Science', 'Earth_science', 'earth_science']",['person function'],['Earth_science'],earth science,person function
+firmware,"['firmware', 'Firmware']","['software', 'music genre']",['Firmware'],firmware,software
+firmware,"['firmware', 'Firmware']","['software', 'music genre']",['Firmware'],firmware,music genre
+occupational medicine,"['Occupational_medicine', 'occupational_Medicine', 'occupational_medicine', 'Occupational_Medicine']",['organisation'],['Occupational_medicine'],occupational medicine,organisation
+psychiatry,"['Psychiatry', 'psychiatry']",['person function'],['Psychiatry'],psychiatry,person function
+e-procurement,"['E-procurement', 'e-procurement']",['company'],['E-procurement'],e-procurement,company
+endocrinology,"['endocrinology', 'Endocrinology']","['medical specialty', 'organisation', 'person function']",['Endocrinology'],endocrinology,medical specialty
+endocrinology,"['endocrinology', 'Endocrinology']","['medical specialty', 'organisation', 'person function']",['Endocrinology'],endocrinology,organisation
+endocrinology,"['endocrinology', 'Endocrinology']","['medical specialty', 'organisation', 'person function']",['Endocrinology'],endocrinology,person function
+history,"['History', 'history']","['book', 'music genre']",['History'],history,book
+history,"['History', 'history']","['book', 'music genre']",['History'],history,music genre
+business analysis,"['Business_analysis', 'business_Analysis', 'business_analysis', 'Business_Analysis']",['sport'],['Business_analysis'],business analysis,sport
+mechanical engineering,"['mechanical_Engineering', 'mechanical_engineering', 'Mechanical_engineering', 'Mechanical_Engineering']","['university', 'sport', 'person function']","['Mechanical_engineering', 'Mechanical_Engineering']",mechanical engineering,university
+mechanical engineering,"['mechanical_Engineering', 'mechanical_engineering', 'Mechanical_engineering', 'Mechanical_Engineering']","['university', 'sport', 'person function']","['Mechanical_engineering', 'Mechanical_Engineering']",mechanical engineering,sport
+mechanical engineering,"['mechanical_Engineering', 'mechanical_engineering', 'Mechanical_engineering', 'Mechanical_Engineering']","['university', 'sport', 'person function']","['Mechanical_engineering', 'Mechanical_Engineering']",mechanical engineering,person function
+childbirth,"['Childbirth', 'childbirth']","['societal event', 'disease']",['Childbirth'],childbirth,societal event
+childbirth,"['Childbirth', 'childbirth']","['societal event', 'disease']",['Childbirth'],childbirth,disease
+public offering,"['public_offering', 'Public_Offering', 'public_Offering', 'Public_offering']",['work'],['Public_offering'],public offering,work
+osteopathy,"['osteopathy', 'Osteopathy']",['person function'],['Osteopathy'],osteopathy,person function
+Salt,"['salt', 'Salt']","['currency', 'mineral']",['Salt'],salt,currency
+Salt,"['salt', 'Salt']","['currency', 'mineral']",['Salt'],salt,mineral
+archaeology,"['Archaeology', 'archaeology']","['book', 'person function']",['Archaeology'],archaeology,book
+archaeology,"['Archaeology', 'archaeology']","['book', 'person function']",['Archaeology'],archaeology,person function
+actuarial science,"['Actuarial_Science', 'actuarial_Science', 'Actuarial_science', 'actuarial_science']","['sport', 'person function']",['Actuarial_science'],actuarial science,sport
+actuarial science,"['Actuarial_Science', 'actuarial_Science', 'Actuarial_science', 'actuarial_science']","['sport', 'person function']",['Actuarial_science'],actuarial science,person function
+grammar,"['grammar', 'Grammar']",['person function'],['Grammar'],grammar,person function
+environmental policy,"['Environmental_policy', 'environmental_Policy', 'environmental_policy', 'Environmental_Policy']",['music genre'],['Environmental_policy'],environmental policy,music genre
+social sciences,"['Social_sciences', 'social_sciences', 'social_Sciences', 'Social_Sciences']","['music genre', 'music genre']","['Social_sciences', 'Social_Sciences']",social sciences,music genre
+social sciences,"['Social_sciences', 'social_sciences', 'social_Sciences', 'Social_Sciences']","['music genre', 'music genre']","['Social_sciences', 'Social_Sciences']",social sciences,music genre
+entertainment industry,"['entertainment_Industry', 'entertainment_industry', 'Entertainment_Industry', 'Entertainment_industry']",['music genre'],['Entertainment_industry'],entertainment industry,music genre
+human physiology,"['Human_Physiology', 'Human_physiology', 'human_Physiology', 'human_physiology']",['university'],['Human_physiology'],human physiology,university
+petroleum,"['petroleum', 'Petroleum']",['person function'],['Petroleum'],petroleum,person function
+gemology,"['Gemology', 'gemology']",['work'],['Gemology'],gemology,work
+football,"['football', 'Football']",['sport'],['Football'],football,sport
+microeconomics,"['microeconomics', 'Microeconomics']",['organisation'],['Microeconomics'],microeconomics,organisation
+high-performance liquid chromatography,"['high-performance_liquid_chromatography', 'high-performance_Liquid_Chromatography', 'High-performance_Liquid_Chromatography', 'High-performance_Liquid_chromatography', 'high-performance_liquid_Chromatography', 'High-performance_liquid_Chromatography', 'High-performance_liquid_chromatography', 'high-performance_Liquid_chromatography']",['topical concept'],['High-performance_liquid_chromatography'],high-performance liquid chromatography,topical concept
+Joomla,"['joomla', 'Joomla']","['software', 'work']",['Joomla'],joomla,software
+Joomla,"['joomla', 'Joomla']","['software', 'work']",['Joomla'],joomla,work
+hearing loss,"['hearing_Loss', 'hearing_loss', 'Hearing_loss', 'Hearing_Loss']",['disease'],['Hearing_loss'],hearing loss,disease
+musical theory,"['musical_theory', 'Musical_theory', 'Musical_Theory', 'musical_Theory']",['person function'],['Musical_theory'],musical theory,person function
+John The Ripper,"['john_The_ripper', 'john_the_Ripper', 'John_The_Ripper', 'john_the_ripper', 'John_The_ripper', 'John_the_ripper', 'john_The_Ripper', 'John_the_Ripper']","['software', 'work']",['John_the_Ripper'],john the ripper,software
+John The Ripper,"['john_The_ripper', 'john_the_Ripper', 'John_The_Ripper', 'john_the_ripper', 'John_The_ripper', 'John_the_ripper', 'john_The_Ripper', 'John_the_Ripper']","['software', 'work']",['John_the_Ripper'],john the ripper,work
+politics,"['politics', 'Politics']","['company', 'music genre']",['Politics'],politics,company
+politics,"['politics', 'Politics']","['company', 'music genre']",['Politics'],politics,music genre
+cardiology,"['Cardiology', 'cardiology']","['medical specialty', 'organisation', 'person function']",['Cardiology'],cardiology,medical specialty
+cardiology,"['Cardiology', 'cardiology']","['medical specialty', 'organisation', 'person function']",['Cardiology'],cardiology,organisation
+cardiology,"['Cardiology', 'cardiology']","['medical specialty', 'organisation', 'person function']",['Cardiology'],cardiology,person function
+Litmos,"['litmos', 'Litmos']",['company'],['Litmos'],litmos,company
+epidemiology,"['epidemiology', 'Epidemiology']","['book', 'music genre']",['Epidemiology'],epidemiology,book
+epidemiology,"['epidemiology', 'Epidemiology']","['book', 'music genre']",['Epidemiology'],epidemiology,music genre
+photogrammetry,"['Photogrammetry', 'photogrammetry']","['work', 'music genre']",['Photogrammetry'],photogrammetry,work
+photogrammetry,"['Photogrammetry', 'photogrammetry']","['work', 'music genre']",['Photogrammetry'],photogrammetry,music genre
+boxing,"['boxing', 'Boxing']","['person', 'person function']",['Boxing'],boxing,person
+boxing,"['boxing', 'Boxing']","['person', 'person function']",['Boxing'],boxing,person function
+product data management,"['product_Data_Management', 'product_Data_management', 'Product_data_Management', 'Product_data_management', 'Product_Data_Management', 'Product_Data_management', 'product_data_management', 'product_data_Management']",['disease'],['Product_data_management'],product data management,disease
+primary care,"['Primary_Care', 'Primary_care', 'primary_care', 'primary_Care']",['organisation'],['Primary_care'],primary care,organisation
+international human rights law,"['international_human_Rights_Law', 'international_human_rights_law', 'international_Human_rights_law', 'International_human_rights_law', 'international_human_rights_Law', 'International_Human_rights_law', 'International_Human_Rights_law', 'international_human_Rights_law', 'international_Human_rights_Law', 'International_Human_Rights_Law', 'international_Human_Rights_Law', 'International_Human_rights_Law', 'International_human_Rights_Law', 'International_human_Rights_law', 'international_Human_Rights_law', 'International_human_rights_Law']","['organisation', 'person function']",['International_human_rights_law'],international human rights law,organisation
+international human rights law,"['international_human_Rights_Law', 'international_human_rights_law', 'international_Human_rights_law', 'International_human_rights_law', 'international_human_rights_Law', 'International_Human_rights_law', 'International_Human_Rights_law', 'international_human_Rights_law', 'international_Human_rights_Law', 'International_Human_Rights_Law', 'international_Human_Rights_Law', 'International_Human_rights_Law', 'International_human_Rights_Law', 'International_human_Rights_law', 'international_Human_Rights_law', 'International_human_rights_Law']","['organisation', 'person function']",['International_human_rights_law'],international human rights law,person function
+electromagnetism,"['electromagnetism', 'Electromagnetism']",['organisation'],['Electromagnetism'],electromagnetism,organisation
+camouflage,"['camouflage', 'Camouflage']",['university'],['Camouflage'],camouflage,university
+Kali Linux,"['kali_Linux', 'kali_linux', 'Kali_Linux', 'Kali_linux']","['software', 'work']",['Kali_Linux'],kali linux,software
+Kali Linux,"['kali_Linux', 'kali_linux', 'Kali_Linux', 'Kali_linux']","['software', 'work']",['Kali_Linux'],kali linux,work
+Common Lisp,"['common_Lisp', 'common_lisp', 'Common_Lisp', 'Common_lisp']","['language', 'programming language']",['Common_Lisp'],common lisp,language
+Common Lisp,"['common_Lisp', 'common_lisp', 'Common_Lisp', 'Common_lisp']","['language', 'programming language']",['Common_Lisp'],common lisp,programming language
+nuclear physics,"['nuclear_physics', 'Nuclear_physics', 'nuclear_Physics', 'Nuclear_Physics']",['person function'],['Nuclear_physics'],nuclear physics,person function
+clinical biochemistry,"['clinical_biochemistry', 'Clinical_biochemistry', 'Clinical_Biochemistry', 'clinical_Biochemistry']","['periodical literature', 'work', 'academic journal', 'written work']",['Clinical_Biochemistry'],clinical biochemistry,periodical literature
+clinical biochemistry,"['clinical_biochemistry', 'Clinical_biochemistry', 'Clinical_Biochemistry', 'clinical_Biochemistry']","['periodical literature', 'work', 'academic journal', 'written work']",['Clinical_Biochemistry'],clinical biochemistry,work
+clinical biochemistry,"['clinical_biochemistry', 'Clinical_biochemistry', 'Clinical_Biochemistry', 'clinical_Biochemistry']","['periodical literature', 'work', 'academic journal', 'written work']",['Clinical_Biochemistry'],clinical biochemistry,academic journal
+clinical biochemistry,"['clinical_biochemistry', 'Clinical_biochemistry', 'Clinical_Biochemistry', 'clinical_Biochemistry']","['periodical literature', 'work', 'academic journal', 'written work']",['Clinical_Biochemistry'],clinical biochemistry,written work
+linguistics,"['Linguistics', 'linguistics']","['book', 'person function']",['Linguistics'],linguistics,book
+linguistics,"['Linguistics', 'linguistics']","['book', 'person function']",['Linguistics'],linguistics,person function
+geography,"['geography', 'Geography']",['music genre'],['Geography'],geography,music genre
+personal development,"['personal_development', 'Personal_development', 'personal_Development', 'Personal_Development']","['music genre', 'music genre']","['Personal_development', 'Personal_Development']",personal development,music genre
+personal development,"['personal_development', 'Personal_development', 'personal_Development', 'Personal_Development']","['music genre', 'music genre']","['Personal_development', 'Personal_Development']",personal development,music genre
+criminal law,"['criminal_Law', 'criminal_law', 'Criminal_Law', 'Criminal_law']",['organisation'],['Criminal_law'],criminal law,organisation
+nutrition,"['nutrition', 'Nutrition']","['work', 'music genre']",['Nutrition'],nutrition,work
+nutrition,"['nutrition', 'Nutrition']","['work', 'music genre']",['Nutrition'],nutrition,music genre
+vascular surgery,"['vascular_surgery', 'vascular_Surgery', 'Vascular_Surgery', 'Vascular_surgery']",['person function'],['Vascular_surgery'],vascular surgery,person function
+optoelectronics,"['Optoelectronics', 'optoelectronics']",['book'],['Optoelectronics'],optoelectronics,book
+Smalltalk,"['Smalltalk', 'smalltalk']","['language', 'programming language']",['Smalltalk'],smalltalk,language
+Smalltalk,"['Smalltalk', 'smalltalk']","['language', 'programming language']",['Smalltalk'],smalltalk,programming language
+polymer chemistry,"['Polymer_chemistry', 'Polymer_Chemistry', 'polymer_Chemistry', 'polymer_chemistry']",['work'],['Polymer_chemistry'],polymer chemistry,work
+macroeconomics,"['Macroeconomics', 'macroeconomics']",['organisation'],['Macroeconomics'],macroeconomics,organisation
+terminology,"['Terminology', 'terminology']","['book', 'music genre']",['Terminology'],terminology,book
+terminology,"['Terminology', 'terminology']","['book', 'music genre']",['Terminology'],terminology,music genre
+commercial law,"['commercial_Law', 'Commercial_law', 'commercial_law', 'Commercial_Law']",['organisation'],['Commercial_law'],commercial law,organisation
+robotics,"['Robotics', 'robotics']","['sport', 'organisation']",['Robotics'],robotics,sport
+robotics,"['Robotics', 'robotics']","['sport', 'organisation']",['Robotics'],robotics,organisation
+reprography,"['reprography', 'Reprography']",['place'],['Reprography'],reprography,place
+mass spectrometry,"['Mass_spectrometry', 'mass_spectrometry', 'Mass_Spectrometry', 'mass_Spectrometry']",['topical concept'],['Mass_spectrometry'],mass spectrometry,topical concept
+pregnancy,"['pregnancy', 'Pregnancy']","['disease', 'sports event']",['Pregnancy'],pregnancy,disease
+pregnancy,"['pregnancy', 'Pregnancy']","['disease', 'sports event']",['Pregnancy'],pregnancy,sports event
+trigonometry,"['Trigonometry', 'trigonometry']",['organisation'],['Trigonometry'],trigonometry,organisation
+histology,"['Histology', 'histology']",['book'],['Histology'],histology,book
+online analytical processing,"['online_Analytical_processing', 'online_analytical_processing', 'Online_analytical_Processing', 'Online_analytical_processing', 'Online_Analytical_processing', 'online_Analytical_Processing', 'online_analytical_Processing', 'Online_Analytical_Processing']",['programming language'],['Online_analytical_processing'],online analytical processing,programming language
+pneumatics,"['pneumatics', 'Pneumatics']",['organisation'],['Pneumatics'],pneumatics,organisation
+herpetology,"['herpetology', 'Herpetology']","['organisation', 'music genre']",['Herpetology'],herpetology,organisation
+herpetology,"['herpetology', 'Herpetology']","['organisation', 'music genre']",['Herpetology'],herpetology,music genre
+inorganic chemistry,"['inorganic_Chemistry', 'Inorganic_Chemistry', 'Inorganic_chemistry', 'inorganic_chemistry']",['university'],['Inorganic_Chemistry'],inorganic chemistry,university
+Drupal,"['Drupal', 'drupal']","['software', 'work']",['Drupal'],drupal,software
+Drupal,"['Drupal', 'drupal']","['software', 'work']",['Drupal'],drupal,work
+phoniatrics,"['phoniatrics', 'Phoniatrics']",['book'],['Phoniatrics'],phoniatrics,book
+tobacco products,"['tobacco_products', 'Tobacco_Products', 'tobacco_Products', 'Tobacco_products']",['software'],['Tobacco_products'],tobacco products,software
+oceanography,"['Oceanography', 'oceanography']","['organisation', 'person function']",['Oceanography'],oceanography,organisation
+oceanography,"['Oceanography', 'oceanography']","['organisation', 'person function']",['Oceanography'],oceanography,person function
+customer relationship management,"['Customer_Relationship_Management', 'customer_relationship_management', 'customer_Relationship_management', 'Customer_relationship_management', 'customer_Relationship_Management', 'customer_relationship_Management', 'Customer_relationship_Management', 'Customer_Relationship_management']","['programming language', 'music genre', 'music genre']","['Customer_Relationship_Management', 'Customer_relationship_management']",customer relationship management,programming language
+customer relationship management,"['Customer_Relationship_Management', 'customer_relationship_management', 'customer_Relationship_management', 'Customer_relationship_management', 'customer_Relationship_Management', 'customer_relationship_Management', 'Customer_relationship_Management', 'Customer_Relationship_management']","['programming language', 'music genre', 'music genre']","['Customer_Relationship_Management', 'Customer_relationship_management']",customer relationship management,music genre
+customer relationship management,"['Customer_Relationship_Management', 'customer_relationship_management', 'customer_Relationship_management', 'Customer_relationship_management', 'customer_Relationship_Management', 'customer_relationship_Management', 'Customer_relationship_Management', 'Customer_Relationship_management']","['programming language', 'music genre', 'music genre']","['Customer_Relationship_Management', 'Customer_relationship_management']",customer relationship management,music genre
+electroplating,"['electroplating', 'Electroplating']",['Election'],['Electroplating'],electroplating,Election
+electronics,"['Electronics', 'electronics']","['work', 'music genre']",['Electronics'],electronics,work
+electronics,"['Electronics', 'electronics']","['work', 'music genre']",['Electronics'],electronics,music genre
+micromechanics,"['micromechanics', 'Micromechanics']",['work'],['Micromechanics'],micromechanics,work
+psychology,"['Psychology', 'psychology']","['book', 'music genre']",['Psychology'],psychology,book
+psychology,"['Psychology', 'psychology']","['book', 'music genre']",['Psychology'],psychology,music genre
+metalogic,"['Metalogic', 'metalogic']",['book'],['Metalogic'],metalogic,book
+Sakai,"['Sakai', 'sakai']","['place', 'populated place', 'city', 'settlement']",['Sakai'],sakai,place
+Sakai,"['Sakai', 'sakai']","['place', 'populated place', 'city', 'settlement']",['Sakai'],sakai,populated place
+Sakai,"['Sakai', 'sakai']","['place', 'populated place', 'city', 'settlement']",['Sakai'],sakai,city
+Sakai,"['Sakai', 'sakai']","['place', 'populated place', 'city', 'settlement']",['Sakai'],sakai,settlement
+sex education,"['sex_Education', 'sex_education', 'Sex_education', 'Sex_Education']","['person function', 'programming language']",['Sex_education'],sex education,person function
+sex education,"['sex_Education', 'sex_education', 'Sex_education', 'Sex_Education']","['person function', 'programming language']",['Sex_education'],sex education,programming language
+transportation engineering,"['Transportation_Engineering', 'transportation_engineering', 'transportation_Engineering', 'Transportation_engineering']",['software'],['Transportation_engineering'],transportation engineering,software
+Adobe Photoshop Lightroom,"['adobe_Photoshop_Lightroom', 'adobe_photoshop_lightroom', 'Adobe_photoshop_Lightroom', 'adobe_photoshop_Lightroom', 'adobe_Photoshop_lightroom', 'Adobe_Photoshop_Lightroom', 'Adobe_Photoshop_lightroom', 'Adobe_photoshop_lightroom']",['software'],['Adobe_Photoshop_Lightroom'],adobe photoshop lightroom,software
+film studies,"['Film_Studies', 'film_studies', 'Film_studies', 'film_Studies']","['sport', 'person function']",['Film_studies'],film studies,sport
+film studies,"['Film_Studies', 'film_studies', 'Film_studies', 'film_Studies']","['sport', 'person function']",['Film_studies'],film studies,person function
+silvering,"['Silvering', 'silvering']",['Election'],['Silvering'],silvering,Election
+Process-based management,"['process-based_Management', 'Process-based_management', 'Process-based_Management', 'process-based_management']",['programming language'],['Process-based_management'],process-based management,programming language
+landscape architecture,"['Landscape_architecture', 'landscape_architecture', 'Landscape_Architecture', 'landscape_Architecture']",['person function'],['Landscape_architecture'],landscape architecture,person function
+Urdu,"['urdu', 'Urdu']","['language', 'building']",['Urdu'],urdu,language
+Urdu,"['urdu', 'Urdu']","['language', 'building']",['Urdu'],urdu,building
+urban planning,"['urban_Planning', 'urban_planning', 'Urban_planning', 'Urban_Planning']","['Election', 'person function']",['Urban_planning'],urban planning,Election
+urban planning,"['urban_Planning', 'urban_planning', 'Urban_planning', 'Urban_Planning']","['Election', 'person function']",['Urban_planning'],urban planning,person function
+geodesy,"['geodesy', 'Geodesy']",['sport'],['Geodesy'],geodesy,sport
+data protection,"['Data_protection', 'data_Protection', 'data_protection', 'Data_Protection']","['music genre', 'music genre']","['Data_protection', 'Data_Protection']",data protection,music genre
+data protection,"['Data_protection', 'data_Protection', 'data_protection', 'Data_Protection']","['music genre', 'music genre']","['Data_protection', 'Data_Protection']",data protection,music genre
+immigration law,"['Immigration_Law', 'immigration_law', 'immigration_Law', 'Immigration_law']",['person function'],['Immigration_law'],immigration law,person function
+biotechnology,"['Biotechnology', 'biotechnology']",['person function'],['Biotechnology'],biotechnology,person function
+risk management,"['Risk_management', 'Risk_Management', 'risk_management', 'risk_Management']","['organisation', 'music genre']",['Risk_management'],risk management,organisation
+risk management,"['Risk_management', 'Risk_Management', 'risk_management', 'risk_Management']","['organisation', 'music genre']",['Risk_management'],risk management,music genre
+database management systems,"['database_management_systems', 'Database_Management_Systems', 'database_Management_Systems', 'database_management_Systems', 'database_Management_systems', 'Database_management_systems', 'Database_Management_systems', 'Database_management_Systems']",['music genre'],['Database_management_systems'],database management systems,music genre
+semantics,"['semantics', 'Semantics']","['book', 'person function']",['Semantics'],semantics,book
+semantics,"['semantics', 'Semantics']","['book', 'person function']",['Semantics'],semantics,person function
+aerospace engineering,"['Aerospace_engineering', 'Aerospace_Engineering', 'aerospace_engineering', 'aerospace_Engineering']","['person function', 'person function']","['Aerospace_engineering', 'Aerospace_Engineering']",aerospace engineering,person function
+aerospace engineering,"['Aerospace_engineering', 'Aerospace_Engineering', 'aerospace_engineering', 'aerospace_Engineering']","['person function', 'person function']","['Aerospace_engineering', 'Aerospace_Engineering']",aerospace engineering,person function
+thoracic surgery,"['Thoracic_surgery', 'Thoracic_Surgery', 'thoracic_surgery', 'thoracic_Surgery']",['person function'],['Thoracic_Surgery'],thoracic surgery,person function
+consumer protection,"['consumer_Protection', 'consumer_protection', 'Consumer_protection', 'Consumer_Protection']","['person function', 'Band', 'music genre']","['Consumer_Protection', 'Consumer_protection']",consumer protection,person function
+consumer protection,"['consumer_Protection', 'consumer_protection', 'Consumer_protection', 'Consumer_Protection']","['person function', 'Band', 'music genre']","['Consumer_Protection', 'Consumer_protection']",consumer protection,Band
+consumer protection,"['consumer_Protection', 'consumer_protection', 'Consumer_protection', 'Consumer_Protection']","['person function', 'Band', 'music genre']","['Consumer_Protection', 'Consumer_protection']",consumer protection,music genre
+pharmacology,"['pharmacology', 'Pharmacology']","['organisation', 'person function']",['Pharmacology'],pharmacology,organisation
+pharmacology,"['pharmacology', 'Pharmacology']","['organisation', 'person function']",['Pharmacology'],pharmacology,person function
+logging,"['Logging', 'logging']",['railway line'],['Logging'],logging,railway line
+packaging engineering,"['Packaging_Engineering', 'Packaging_engineering', 'packaging_Engineering', 'packaging_engineering']",['scientist'],['Packaging_engineering'],packaging engineering,scientist
+systems thinking,"['Systems_Thinking', 'systems_thinking', 'systems_Thinking', 'Systems_thinking']",['Election'],['Systems_thinking'],systems thinking,Election
+Puppet,"['Puppet', 'puppet']",['music genre'],['Puppet'],puppet,music genre
+hydraulics,"['Hydraulics', 'hydraulics']",['scientist'],['Hydraulics'],hydraulics,scientist
+Microsoft Access,"['microsoft_access', 'microsoft_Access', 'Microsoft_Access', 'Microsoft_access']","['software', 'work']",['Microsoft_Access'],microsoft access,software
+Microsoft Access,"['microsoft_access', 'microsoft_Access', 'Microsoft_Access', 'Microsoft_access']","['software', 'work']",['Microsoft_Access'],microsoft access,work
+scientific modelling,"['Scientific_Modelling', 'scientific_Modelling', 'scientific_modelling', 'Scientific_modelling']",['sport'],['Scientific_modelling'],scientific modelling,sport
+electrical engineering,"['Electrical_Engineering', 'electrical_Engineering', 'electrical_engineering', 'Electrical_engineering']","['university', 'person function']","['Electrical_Engineering', 'Electrical_engineering']",electrical engineering,university
+electrical engineering,"['Electrical_Engineering', 'electrical_Engineering', 'electrical_engineering', 'Electrical_engineering']","['university', 'person function']","['Electrical_Engineering', 'Electrical_engineering']",electrical engineering,person function
+neonatology,"['Neonatology', 'neonatology']",['person function'],['Neonatology'],neonatology,person function
+aerodynamics,"['Aerodynamics', 'aerodynamics']","['organisation', 'person function']",['Aerodynamics'],aerodynamics,organisation
+aerodynamics,"['Aerodynamics', 'aerodynamics']","['organisation', 'person function']",['Aerodynamics'],aerodynamics,person function
+accounting,"['Accounting', 'accounting']","['company', 'music genre']",['Accounting'],accounting,company
+accounting,"['Accounting', 'accounting']","['company', 'music genre']",['Accounting'],accounting,music genre
+applied kinesiology,"['Applied_kinesiology', 'applied_Kinesiology', 'Applied_Kinesiology', 'applied_kinesiology']",['topical concept'],['Applied_kinesiology'],applied kinesiology,topical concept
+automatic meter reading,"['automatic_meter_reading', 'automatic_meter_Reading', 'automatic_Meter_Reading', 'Automatic_meter_Reading', 'automatic_Meter_reading', 'Automatic_Meter_Reading', 'Automatic_Meter_reading', 'Automatic_meter_reading']",['company'],['Automatic_meter_reading'],automatic meter reading,company
+forest ecology,"['forest_Ecology', 'Forest_Ecology', 'Forest_ecology', 'forest_ecology']",['book'],['Forest_ecology'],forest ecology,book
+geochronology,"['Geochronology', 'geochronology']",['work'],['Geochronology'],geochronology,work
+safety engineering,"['Safety_engineering', 'safety_engineering', 'Safety_Engineering', 'safety_Engineering']","['sport', 'person function']",['Safety_engineering'],safety engineering,sport
+safety engineering,"['Safety_engineering', 'safety_engineering', 'Safety_Engineering', 'safety_Engineering']","['sport', 'person function']",['Safety_engineering'],safety engineering,person function
+alkylation,"['alkylation', 'Alkylation']",['university'],['Alkylation'],alkylation,university
+Hebrew,"['Hebrew', 'hebrew']",['language'],['Hebrew'],hebrew,language
+livestock,"['livestock', 'Livestock']","['animal', 'person function']",['Livestock'],livestock,animal
+livestock,"['livestock', 'Livestock']","['animal', 'person function']",['Livestock'],livestock,person function
+Metasploit,"['Metasploit', 'metasploit']",['company'],['Metasploit'],metasploit,company
+spelling,"['Spelling', 'spelling']","['person', 'music genre']",['Spelling'],spelling,person
+spelling,"['Spelling', 'spelling']","['person', 'music genre']",['Spelling'],spelling,music genre
+animal production science,"['Animal_production_science', 'animal_Production_Science', 'animal_Production_science', 'Animal_Production_science', 'animal_production_Science', 'animal_production_science', 'Animal_production_Science', 'Animal_Production_Science']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Production_Science'],animal production science,periodical literature
+animal production science,"['Animal_production_science', 'animal_Production_Science', 'animal_Production_science', 'Animal_Production_science', 'animal_production_Science', 'animal_production_science', 'Animal_production_Science', 'Animal_Production_Science']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Production_Science'],animal production science,work
+animal production science,"['Animal_production_science', 'animal_Production_Science', 'animal_Production_science', 'Animal_Production_science', 'animal_production_Science', 'animal_production_science', 'Animal_production_Science', 'Animal_Production_Science']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Production_Science'],animal production science,academic journal
+animal production science,"['Animal_production_science', 'animal_Production_Science', 'animal_Production_science', 'Animal_Production_science', 'animal_production_Science', 'animal_production_science', 'Animal_production_Science', 'Animal_Production_Science']","['periodical literature', 'work', 'academic journal', 'written work']",['Animal_Production_Science'],animal production science,written work
+property law,"['Property_law', 'Property_Law', 'property_law', 'property_Law']",['place'],['Property_law'],property law,place
+postpartum period,"['Postpartum_period', 'Postpartum_Period', 'postpartum_period', 'postpartum_Period']",['country'],['Postpartum_period'],postpartum period,country
+floriculture,"['Floriculture', 'floriculture']","['sport', 'person function']",['Floriculture'],floriculture,sport
+floriculture,"['Floriculture', 'floriculture']","['sport', 'person function']",['Floriculture'],floriculture,person function
+reverse engineering,"['Reverse_engineering', 'reverse_Engineering', 'Reverse_Engineering', 'reverse_engineering']","['music genre', 'anatomical structure', 'music genre']","['Reverse_engineering', 'Reverse_Engineering']",reverse engineering,music genre
+reverse engineering,"['Reverse_engineering', 'reverse_Engineering', 'Reverse_Engineering', 'reverse_engineering']","['music genre', 'anatomical structure', 'music genre']","['Reverse_engineering', 'Reverse_Engineering']",reverse engineering,anatomical structure
+reverse engineering,"['Reverse_engineering', 'reverse_Engineering', 'Reverse_Engineering', 'reverse_engineering']","['music genre', 'anatomical structure', 'music genre']","['Reverse_engineering', 'Reverse_Engineering']",reverse engineering,music genre
+microelectronics,"['Microelectronics', 'microelectronics']","['disease', 'person function']",['Microelectronics'],microelectronics,disease
+microelectronics,"['Microelectronics', 'microelectronics']","['disease', 'person function']",['Microelectronics'],microelectronics,person function
+forensic linguistics,"['forensic_linguistics', 'forensic_Linguistics', 'Forensic_linguistics', 'Forensic_Linguistics']",['software'],['Forensic_linguistics'],forensic linguistics,software
+Maltego,"['maltego', 'Maltego']","['software', 'work']",['Maltego'],maltego,software
+Maltego,"['maltego', 'Maltego']","['software', 'work']",['Maltego'],maltego,work
+sophrology,"['sophrology', 'Sophrology']",['book'],['Sophrology'],sophrology,book
+strategic planning,"['strategic_planning', 'strategic_Planning', 'Strategic_Planning', 'Strategic_planning']",['Election'],['Strategic_planning'],strategic planning,Election
+sports nutrition,"['Sports_nutrition', 'sports_nutrition', 'sports_Nutrition', 'Sports_Nutrition']","['book', 'person function']",['Sports_nutrition'],sports nutrition,book
+sports nutrition,"['Sports_nutrition', 'sports_nutrition', 'sports_Nutrition', 'Sports_Nutrition']","['book', 'person function']",['Sports_nutrition'],sports nutrition,person function
+obesity,"['Obesity', 'obesity']",['disease'],['Obesity'],obesity,disease
+mechanics,"['Mechanics', 'mechanics']","['place', 'music genre']",['Mechanics'],mechanics,place
+mechanics,"['Mechanics', 'mechanics']","['place', 'music genre']",['Mechanics'],mechanics,music genre
+homeopathy,"['Homeopathy', 'homeopathy']",['person function'],['Homeopathy'],homeopathy,person function
+data mining,"['data_Mining', 'data_mining', 'Data_mining', 'Data_Mining']","['disease', 'music genre', 'music genre']","['Data_mining', 'Data_Mining']",data mining,disease
+data mining,"['data_Mining', 'data_mining', 'Data_mining', 'Data_Mining']","['disease', 'music genre', 'music genre']","['Data_mining', 'Data_Mining']",data mining,music genre
+data mining,"['data_Mining', 'data_mining', 'Data_mining', 'Data_Mining']","['disease', 'music genre', 'music genre']","['Data_mining', 'Data_Mining']",data mining,music genre
+biomedicine,"['biomedicine', 'Biomedicine']",['organisation'],['Biomedicine'],biomedicine,organisation
+demography,"['demography', 'Demography']","['book', 'person function']",['Demography'],demography,book
+demography,"['demography', 'Demography']","['book', 'person function']",['Demography'],demography,person function
+digital compositing,"['Digital_Compositing', 'digital_compositing', 'digital_Compositing', 'Digital_compositing']","['Election', 'person function']",['Digital_compositing'],digital compositing,Election
+digital compositing,"['Digital_Compositing', 'digital_compositing', 'digital_Compositing', 'Digital_compositing']","['Election', 'person function']",['Digital_compositing'],digital compositing,person function
+health informatics,"['Health_informatics', 'health_informatics', 'Health_Informatics', 'health_Informatics']",['music genre'],['Health_informatics'],health informatics,music genre
+morality,"['Morality', 'morality']",['music genre'],['Morality'],morality,music genre
+musical notation,"['Musical_Notation', 'Musical_notation', 'musical_Notation', 'musical_notation']","['music genre', 'music genre']","['Musical_notation', 'Musical_Notation']",musical notation,music genre
+musical notation,"['Musical_Notation', 'Musical_notation', 'musical_Notation', 'musical_notation']","['music genre', 'music genre']","['Musical_notation', 'Musical_Notation']",musical notation,music genre
+embryology,"['Embryology', 'embryology']",['organisation'],['Embryology'],embryology,organisation
+competition law,"['Competition_Law', 'Competition_law', 'competition_Law', 'competition_law']",['agent'],['Competition_law'],competition law,agent
+yoga,"['Yoga', 'yoga']","['company', 'person function']",['Yoga'],yoga,company
+yoga,"['Yoga', 'yoga']","['company', 'person function']",['Yoga'],yoga,person function
+pathology,"['Pathology', 'pathology']","['medical specialty', 'military unit', 'person function']",['Pathology'],pathology,medical specialty
+pathology,"['Pathology', 'pathology']","['medical specialty', 'military unit', 'person function']",['Pathology'],pathology,military unit
+pathology,"['Pathology', 'pathology']","['medical specialty', 'military unit', 'person function']",['Pathology'],pathology,person function
+blood transfusion,"['Blood_Transfusion', 'blood_transfusion', 'blood_Transfusion', 'Blood_transfusion']",['disease'],['Blood_transfusion'],blood transfusion,disease
+pattern grading,"['pattern_Grading', 'Pattern_grading', 'Pattern_Grading', 'pattern_grading']",['fashion'],['Pattern_grading'],pattern grading,fashion
+Apache Maven,"['Apache_maven', 'apache_Maven', 'Apache_Maven', 'apache_maven']","['software', 'work']",['Apache_Maven'],apache maven,software
+Apache Maven,"['Apache_maven', 'apache_Maven', 'Apache_Maven', 'apache_maven']","['software', 'work']",['Apache_Maven'],apache maven,work
+electroencephalography,"['Electroencephalography', 'electroencephalography']","['software', 'person function']",['Electroencephalography'],electroencephalography,software
+electroencephalography,"['Electroencephalography', 'electroencephalography']","['software', 'person function']",['Electroencephalography'],electroencephalography,person function
+kinesitherapy,"['kinesitherapy', 'Kinesitherapy']",['drug'],['Kinesitherapy'],kinesitherapy,drug
+animal welfare,"['animal_Welfare', 'animal_welfare', 'Animal_welfare', 'Animal_Welfare']",['television station'],['Animal_welfare'],animal welfare,television station
+hinduism,"['hinduism', 'Hinduism']","['ethnic group', 'country']",['Hinduism'],hinduism,ethnic group
+hinduism,"['hinduism', 'Hinduism']","['ethnic group', 'country']",['Hinduism'],hinduism,country
+health psychology,"['Health_Psychology', 'health_Psychology', 'health_psychology', 'Health_psychology']",['book'],['Health_psychology'],health psychology,book
+cryopreservation,"['Cryopreservation', 'cryopreservation']",['Election'],['Cryopreservation'],cryopreservation,Election
+resuscitation,"['resuscitation', 'Resuscitation']",['Election'],['Resuscitation'],resuscitation,Election
+set theory,"['set_Theory', 'set_theory', 'Set_Theory', 'Set_theory']",['organisation'],['Set_theory'],set theory,organisation
+organic chemistry,"['Organic_chemistry', 'organic_Chemistry', 'Organic_Chemistry', 'organic_chemistry']","['person function', 'university']","['Organic_chemistry', 'Organic_Chemistry']",organic chemistry,person function
+organic chemistry,"['Organic_chemistry', 'organic_Chemistry', 'Organic_Chemistry', 'organic_chemistry']","['person function', 'university']","['Organic_chemistry', 'Organic_Chemistry']",organic chemistry,university
+industrial design,"['industrial_design', 'Industrial_design', 'Industrial_Design', 'industrial_Design']","['Election', 'person function', 'person function']","['Industrial_design', 'Industrial_Design']",industrial design,Election
+industrial design,"['industrial_design', 'Industrial_design', 'Industrial_Design', 'industrial_Design']","['Election', 'person function', 'person function']","['Industrial_design', 'Industrial_Design']",industrial design,person function
+industrial design,"['industrial_design', 'Industrial_design', 'Industrial_Design', 'industrial_Design']","['Election', 'person function', 'person function']","['Industrial_design', 'Industrial_Design']",industrial design,person function
+military aviation,"['military_Aviation', 'Military_aviation', 'military_aviation', 'Military_Aviation']",['music genre'],['Military_aviation'],military aviation,music genre
+opinion poll,"['opinion_Poll', 'opinion_poll', 'Opinion_poll', 'Opinion_Poll']","['organisation', 'music genre']",['Opinion_poll'],opinion poll,organisation
+opinion poll,"['opinion_Poll', 'opinion_poll', 'Opinion_poll', 'Opinion_Poll']","['organisation', 'music genre']",['Opinion_poll'],opinion poll,music genre
+genetic engineering,"['genetic_Engineering', 'Genetic_Engineering', 'genetic_engineering', 'Genetic_engineering']",['company'],['Genetic_engineering'],genetic engineering,company
+food science,"['Food_Science', 'food_science', 'food_Science', 'Food_science']","['person function', 'work', 'person function']","['Food_Science', 'Food_science']",food science,person function
+food science,"['Food_Science', 'food_science', 'food_Science', 'Food_science']","['person function', 'work', 'person function']","['Food_Science', 'Food_science']",food science,work
+food science,"['Food_Science', 'food_science', 'food_Science', 'Food_science']","['person function', 'work', 'person function']","['Food_Science', 'Food_science']",food science,person function
+green computing,"['green_Computing', 'Green_computing', 'green_computing', 'Green_Computing']",['book'],['Green_computing'],green computing,book
+Adobe Illustrator,"['adobe_Illustrator', 'Adobe_Illustrator', 'adobe_illustrator', 'Adobe_illustrator']","['person', 'software', 'work']",['Adobe_Illustrator'],adobe illustrator,person
+Adobe Illustrator,"['adobe_Illustrator', 'Adobe_Illustrator', 'adobe_illustrator', 'Adobe_illustrator']","['person', 'software', 'work']",['Adobe_Illustrator'],adobe illustrator,software
+Adobe Illustrator,"['adobe_Illustrator', 'Adobe_Illustrator', 'adobe_illustrator', 'Adobe_illustrator']","['person', 'software', 'work']",['Adobe_Illustrator'],adobe illustrator,work
+audio mastering,"['audio_mastering', 'Audio_Mastering', 'audio_Mastering', 'Audio_mastering']","['Election', 'person function']",['Audio_mastering'],audio mastering,Election
+audio mastering,"['audio_mastering', 'Audio_Mastering', 'audio_Mastering', 'Audio_mastering']","['Election', 'person function']",['Audio_mastering'],audio mastering,person function
+surveying,"['Surveying', 'surveying']","['topical concept', 'person function']",['Surveying'],surveying,topical concept
+surveying,"['Surveying', 'surveying']","['topical concept', 'person function']",['Surveying'],surveying,person function
+forensic anthropology,"['forensic_Anthropology', 'forensic_anthropology', 'Forensic_Anthropology', 'Forensic_anthropology']","['software', 'person function']",['Forensic_anthropology'],forensic anthropology,software
+forensic anthropology,"['forensic_Anthropology', 'forensic_anthropology', 'Forensic_Anthropology', 'Forensic_anthropology']","['software', 'person function']",['Forensic_anthropology'],forensic anthropology,person function
+textile industry,"['Textile_industry', 'textile_Industry', 'Textile_Industry', 'textile_industry']",['person function'],['Textile_industry'],textile industry,person function
+biostatistics,"['biostatistics', 'Biostatistics']","['software', 'music genre']",['Biostatistics'],biostatistics,software
+biostatistics,"['biostatistics', 'Biostatistics']","['software', 'music genre']",['Biostatistics'],biostatistics,music genre
+Ajax Framework,"['Ajax_Framework', 'ajax_framework', 'Ajax_framework', 'ajax_Framework']","['software', 'music genre']",['Ajax_framework'],ajax framework,software
+Ajax Framework,"['Ajax_Framework', 'ajax_framework', 'Ajax_framework', 'ajax_Framework']","['software', 'music genre']",['Ajax_framework'],ajax framework,music genre
+surgery,"['Surgery', 'surgery']","['Food', 'person function']",['Surgery'],surgery,Food
+surgery,"['Surgery', 'surgery']","['Food', 'person function']",['Surgery'],surgery,person function
+Wireshark,"['Wireshark', 'wireshark']","['software', 'work']",['Wireshark'],wireshark,software
+Wireshark,"['Wireshark', 'wireshark']","['software', 'work']",['Wireshark'],wireshark,work
+mergers and acquisitions,"['Mergers_And_acquisitions', 'Mergers_and_acquisitions', 'mergers_And_Acquisitions', 'Mergers_and_Acquisitions', 'mergers_and_Acquisitions', 'mergers_And_acquisitions', 'mergers_and_acquisitions', 'Mergers_And_Acquisitions']",['person function'],['Mergers_and_acquisitions'],mergers and acquisitions,person function
+ski,"['Ski', 'ski']",['comic strip'],['Ski'],ski,comic strip
+international trade,"['international_trade', 'International_trade', 'international_Trade', 'International_Trade']",['company'],['International_trade'],international trade,company
+fluid mechanics,"['Fluid_mechanics', 'Fluid_Mechanics', 'fluid_Mechanics', 'fluid_mechanics']",['organisation'],['Fluid_mechanics'],fluid mechanics,organisation
+intubation,"['intubation', 'Intubation']",['anatomical structure'],['Intubation'],intubation,anatomical structure
+cartography,"['Cartography', 'cartography']","['book', 'person function']",['Cartography'],cartography,book
+cartography,"['Cartography', 'cartography']","['book', 'person function']",['Cartography'],cartography,person function
+Windows Phone,"['windows_phone', 'Windows_Phone', 'windows_Phone', 'Windows_phone']","['software', 'work']",['Windows_Phone'],windows phone,software
+Windows Phone,"['windows_phone', 'Windows_Phone', 'windows_Phone', 'Windows_phone']","['software', 'work']",['Windows_Phone'],windows phone,work
+financial engineering,"['Financial_Engineering', 'Financial_engineering', 'financial_engineering', 'financial_Engineering']",['music genre'],['Financial_engineering'],financial engineering,music genre
+energy,"['Energy', 'energy']","['building', 'music genre']",['Energy'],energy,building
+energy,"['Energy', 'energy']","['building', 'music genre']",['Energy'],energy,music genre
+ophthalmology,"['Ophthalmology', 'ophthalmology']","['medical specialty', 'organisation', 'person function']",['Ophthalmology'],ophthalmology,medical specialty
+ophthalmology,"['Ophthalmology', 'ophthalmology']","['medical specialty', 'organisation', 'person function']",['Ophthalmology'],ophthalmology,organisation
+ophthalmology,"['Ophthalmology', 'ophthalmology']","['medical specialty', 'organisation', 'person function']",['Ophthalmology'],ophthalmology,person function
+supply chain management,"['Supply_chain_Management', 'supply_chain_management', 'supply_Chain_management', 'Supply_Chain_management', 'supply_chain_Management', 'Supply_chain_management', 'Supply_Chain_Management', 'supply_Chain_Management']","['company', 'music genre', 'music genre']","['Supply_chain_management', 'Supply_Chain_Management']",supply chain management,company
+supply chain management,"['Supply_chain_Management', 'supply_chain_management', 'supply_Chain_management', 'Supply_Chain_management', 'supply_chain_Management', 'Supply_chain_management', 'Supply_Chain_Management', 'supply_Chain_Management']","['company', 'music genre', 'music genre']","['Supply_chain_management', 'Supply_Chain_Management']",supply chain management,music genre
+supply chain management,"['Supply_chain_Management', 'supply_chain_management', 'supply_Chain_management', 'Supply_Chain_management', 'supply_chain_Management', 'Supply_chain_management', 'Supply_Chain_Management', 'supply_Chain_Management']","['company', 'music genre', 'music genre']","['Supply_chain_management', 'Supply_Chain_Management']",supply chain management,music genre
+history of literature,"['history_of_literature', 'History_of_Literature', 'history_of_Literature', 'History_Of_Literature', 'history_Of_Literature', 'history_Of_literature', 'History_Of_literature', 'History_of_literature']",['person function'],['History_of_literature'],history of literature,person function
+medical oncology,"['medical_Oncology', 'medical_oncology', 'Medical_oncology', 'Medical_Oncology']",['person function'],['Medical_oncology'],medical oncology,person function
+logic,"['Logic', 'logic']","['organisation', 'music genre']",['Logic'],logic,organisation
+logic,"['Logic', 'logic']","['organisation', 'music genre']",['Logic'],logic,music genre
+family law,"['family_Law', 'Family_law', 'Family_Law', 'family_law']","['person function', 'place', 'person function']","['Family_law', 'Family_Law']",family law,person function
+family law,"['family_Law', 'Family_law', 'Family_Law', 'family_law']","['person function', 'place', 'person function']","['Family_law', 'Family_Law']",family law,place
+family law,"['family_Law', 'Family_law', 'Family_Law', 'family_law']","['person function', 'place', 'person function']","['Family_law', 'Family_Law']",family law,person function
+industrial engineering,"['Industrial_Engineering', 'industrial_Engineering', 'industrial_engineering', 'Industrial_engineering']","['organisation', 'university', 'university']","['Industrial_Engineering', 'Industrial_engineering']",industrial engineering,organisation
+industrial engineering,"['Industrial_Engineering', 'industrial_Engineering', 'industrial_engineering', 'Industrial_engineering']","['organisation', 'university', 'university']","['Industrial_Engineering', 'Industrial_engineering']",industrial engineering,university
+industrial engineering,"['Industrial_Engineering', 'industrial_Engineering', 'industrial_engineering', 'Industrial_engineering']","['organisation', 'university', 'university']","['Industrial_Engineering', 'Industrial_engineering']",industrial engineering,university
+hydraulic fracturing,"['hydraulic_fracturing', 'Hydraulic_fracturing', 'hydraulic_Fracturing', 'Hydraulic_Fracturing']",['topical concept'],['Hydraulic_fracturing'],hydraulic fracturing,topical concept
+Oracle Warehouse Builder,"['Oracle_Warehouse_Builder', 'oracle_warehouse_Builder', 'Oracle_Warehouse_builder', 'oracle_Warehouse_Builder', 'oracle_Warehouse_builder', 'oracle_warehouse_builder', 'Oracle_warehouse_builder', 'Oracle_warehouse_Builder']",['software'],['Oracle_Warehouse_Builder'],oracle warehouse builder,software
+viticulture,"['viticulture', 'Viticulture']","['work', 'music genre']",['Viticulture'],viticulture,work
+viticulture,"['viticulture', 'Viticulture']","['work', 'music genre']",['Viticulture'],viticulture,music genre
+forensic pathology,"['Forensic_pathology', 'Forensic_Pathology', 'forensic_pathology', 'forensic_Pathology']","['agent', 'person function']",['Forensic_pathology'],forensic pathology,agent
+forensic pathology,"['Forensic_pathology', 'Forensic_Pathology', 'forensic_pathology', 'forensic_Pathology']","['agent', 'person function']",['Forensic_pathology'],forensic pathology,person function
+immunohaematology,"['immunohaematology', 'Immunohaematology']",['organisation'],['Immunohaematology'],immunohaematology,organisation
+Agile project management,"['agile_project_Management', 'agile_project_management', 'Agile_project_management', 'Agile_Project_management', 'Agile_Project_Management', 'Agile_project_Management', 'agile_Project_Management', 'agile_Project_management']",['music genre'],['Agile_Project_Management'],agile project management,music genre
+gender studies,"['gender_Studies', 'Gender_Studies', 'Gender_studies', 'gender_studies']","['music genre', 'university']","['Gender_Studies', 'Gender_studies']",gender studies,music genre
+gender studies,"['gender_Studies', 'Gender_Studies', 'Gender_studies', 'gender_studies']","['music genre', 'university']","['Gender_Studies', 'Gender_studies']",gender studies,university
+consumer electronics,"['Consumer_Electronics', 'consumer_electronics', 'consumer_Electronics', 'Consumer_electronics']","['company', 'music genre']",['Consumer_electronics'],consumer electronics,company
+consumer electronics,"['Consumer_Electronics', 'consumer_electronics', 'consumer_Electronics', 'Consumer_electronics']","['company', 'music genre']",['Consumer_electronics'],consumer electronics,music genre
+theory of constraints,"['Theory_Of_Constraints', 'theory_of_constraints', 'theory_Of_Constraints', 'theory_Of_constraints', 'Theory_of_Constraints', 'Theory_Of_constraints', 'theory_of_Constraints', 'Theory_of_constraints']",['programming language'],['Theory_of_constraints'],theory of constraints,programming language
+aesthetics,"['Aesthetics', 'aesthetics']","['book', 'music genre']",['Aesthetics'],aesthetics,book
+aesthetics,"['Aesthetics', 'aesthetics']","['book', 'music genre']",['Aesthetics'],aesthetics,music genre
+vocational rehabilitation,"['vocational_Rehabilitation', 'vocational_rehabilitation', 'Vocational_rehabilitation', 'Vocational_Rehabilitation']",['Election'],['Vocational_rehabilitation'],vocational rehabilitation,Election
+entrepreneurship,"['entrepreneurship', 'Entrepreneurship']","['Election', 'person function']",['Entrepreneurship'],entrepreneurship,Election
+entrepreneurship,"['entrepreneurship', 'Entrepreneurship']","['Election', 'person function']",['Entrepreneurship'],entrepreneurship,person function
+intensive care medicine,"['Intensive_Care_medicine', 'Intensive_care_medicine', 'intensive_Care_medicine', 'intensive_care_medicine', 'Intensive_care_Medicine', 'intensive_care_Medicine', 'intensive_Care_Medicine', 'Intensive_Care_Medicine']","['medical specialty', 'organisation', 'person function']",['Intensive_care_medicine'],intensive care medicine,medical specialty
+intensive care medicine,"['Intensive_Care_medicine', 'Intensive_care_medicine', 'intensive_Care_medicine', 'intensive_care_medicine', 'Intensive_care_Medicine', 'intensive_care_Medicine', 'intensive_Care_Medicine', 'Intensive_Care_Medicine']","['medical specialty', 'organisation', 'person function']",['Intensive_care_medicine'],intensive care medicine,organisation
+intensive care medicine,"['Intensive_Care_medicine', 'Intensive_care_medicine', 'intensive_Care_medicine', 'intensive_care_medicine', 'Intensive_care_Medicine', 'intensive_care_Medicine', 'intensive_Care_Medicine', 'Intensive_Care_Medicine']","['medical specialty', 'organisation', 'person function']",['Intensive_care_medicine'],intensive care medicine,person function
+fine-needle aspiration,"['fine-needle_Aspiration', 'fine-needle_aspiration', 'Fine-needle_aspiration', 'Fine-needle_Aspiration']",['anatomical structure'],['Fine-needle_aspiration'],fine-needle aspiration,anatomical structure
+physics,"['physics', 'Physics']","['work', 'university']",['Physics'],physics,work
+physics,"['physics', 'Physics']","['work', 'university']",['Physics'],physics,university
+Ansible,"['Ansible', 'ansible']",['software'],['Ansible'],ansible,software
+emergency medicine,"['Emergency_Medicine', 'Emergency_medicine', 'emergency_Medicine', 'emergency_medicine']","['person function', 'medical specialty', 'Food', 'person function']","['Emergency_Medicine', 'Emergency_medicine']",emergency medicine,person function
+emergency medicine,"['Emergency_Medicine', 'Emergency_medicine', 'emergency_Medicine', 'emergency_medicine']","['person function', 'medical specialty', 'Food', 'person function']","['Emergency_Medicine', 'Emergency_medicine']",emergency medicine,medical specialty
+emergency medicine,"['Emergency_Medicine', 'Emergency_medicine', 'emergency_Medicine', 'emergency_medicine']","['person function', 'medical specialty', 'Food', 'person function']","['Emergency_Medicine', 'Emergency_medicine']",emergency medicine,Food
+emergency medicine,"['Emergency_Medicine', 'Emergency_medicine', 'emergency_Medicine', 'emergency_medicine']","['person function', 'medical specialty', 'Food', 'person function']","['Emergency_Medicine', 'Emergency_medicine']",emergency medicine,person function
+botany,"['Botany', 'botany']","['work', 'person function']",['Botany'],botany,work
+botany,"['Botany', 'botany']","['work', 'person function']",['Botany'],botany,person function
+spiritualism,"['Spiritualism', 'spiritualism']","['organisation', 'person function']",['Spiritualism'],spiritualism,organisation
+spiritualism,"['Spiritualism', 'spiritualism']","['organisation', 'person function']",['Spiritualism'],spiritualism,person function
+thanatology,"['Thanatology', 'thanatology']",['book'],['Thanatology'],thanatology,book
+foreclosure,"['Foreclosure', 'foreclosure']",['Election'],['Foreclosure'],foreclosure,Election
+cavity optomechanics,"['cavity_optomechanics', 'Cavity_optomechanics', 'cavity_Optomechanics', 'Cavity_Optomechanics']",['organisation'],['Cavity_optomechanics'],cavity optomechanics,organisation
+statistical process control,"['statistical_process_control', 'statistical_process_Control', 'Statistical_Process_Control', 'Statistical_Process_control', 'Statistical_process_Control', 'statistical_Process_control', 'Statistical_process_control', 'statistical_Process_Control']",['software'],['Statistical_process_control'],statistical process control,software
+art collections,"['Art_Collections', 'Art_collections', 'art_collections', 'art_Collections']",['music genre'],['Art_collections'],art collections,music genre
